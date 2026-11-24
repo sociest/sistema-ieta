@@ -58,23 +58,27 @@ while ! nc -z "$DB_HOST_TARGET" "$DB_PORT_TARGET" 2>/dev/null; do
 done
 echo "==> Base de datos disponible."
 
-# 6. Enlace simbólico de storage público
+# 6. Sincronizar almacenamiento público y enlace simbólico
+echo "==> Asegurando archivos físicos de seeders en almacenamiento público persistente..."
+mkdir -p storage/app/public
+if [ -d "/var/www/html/database/seeders/data/storage" ]; then
+    cp -rn /var/www/html/database/seeders/data/storage/* /var/www/html/storage/app/public/ 2>/dev/null || cp -r /var/www/html/database/seeders/data/storage/* /var/www/html/storage/app/public/ 2>/dev/null || true
+fi
+chmod -R 775 storage/app/public 2>/dev/null || true
+
 echo "==> Verificando enlace simbólico de almacenamiento público..."
-php artisan storage:link 2>/dev/null || true
+if [ ! -L public/storage ]; then
+    rm -rf public/storage
+    php artisan storage:link --force 2>/dev/null || true
+fi
 
 # 7. Migraciones automáticas
 echo "==> Ejecutando migraciones de base de datos..."
 php artisan migrate --force --no-interaction
 
-# 8. Seeders iniciales automáticos (solo si la tabla users está vacía para no duplicar datos)
-echo "==> Verificando si se requieren datos iniciales (Seeders)..."
-USER_COUNT=$(php artisan tinker --execute="echo \App\Models\User::count();" 2>/dev/null | tail -n 1 | tr -d '[:space:]')
-if [ "$USER_COUNT" = "0" ] || [ -z "$USER_COUNT" ]; then
-    echo "==> Base de datos vacía. Ejecutando Seeders..."
-    php artisan db:seed --force --no-interaction
-else
-    echo "==> Datos iniciales ya existentes ($USER_COUNT usuarios). Omitiendo seeders."
-fi
+# 8. Sincronización y actualización de Seeders (idempotentes mediante updateOrCreate)
+echo "==> Sincronizando y ejecutando Seeders institucionales..."
+php artisan db:seed --force --no-interaction
 
 # 9. Optimización de caché para producción
 echo "==> Optimizando rutas, vistas y configuración..."
