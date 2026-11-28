@@ -1,11 +1,11 @@
 [
     {
         "id": 2,
-        "ev_titulo": "Varianza N° 24, Octubre 2024",
         "ev_numero": "24",
         "ev_volumen": null,
         "ev_anio": 2024,
         "ev_mes": null,
+        "ev_titulo": "Varianza N° 24, Octubre 2024",
         "ev_slug": "revista-varianza-n-24-2024",
         "ev_issn_ver_impresa": "2789-3510",
         "ev_issn_ver_electronica": "2789-3529",
@@ -41,21 +41,21 @@
                     "id": "T_EaMHu0qz",
                     "type": "paragraph",
                     "data": {
-                        "text": "Por último, invitamos a visitar en la Web la nueva página de la Revista Varianza a través de la siguiente dirección electrónica: <a href=\"https:\/\/ojs.umsa.bo\/ojs\/index.php\/revistavarianza\" target=\"_blank\">https:\/\/ojs.umsa.bo\/ojs\/index.php\/revistavarianza<\/a>&nbsp;"
+                        "text": "Por último, invitamos a visitar en la Web la nueva página de la Revista Varianza a través de la siguiente dirección electrónica: <a href=\"https://ojs.umsa.bo/ojs/index.php/revistavarianza\" target=\"_blank\">https://ojs.umsa.bo/ojs/index.php/revistavarianza</a>&nbsp;"
                     }
                 },
                 {
                     "id": "1eQNarL2-J",
                     "type": "paragraph",
                     "data": {
-                        "text": "<b>Dr (c) Ramiro Coa Clemente <\/b>"
+                        "text": "<b>Dr (c) Ramiro Coa Clemente </b>"
                     }
                 },
                 {
                     "id": "pfl9kpHEqr",
                     "type": "paragraph",
                     "data": {
-                        "text": "<b>DIRECTOR INSTITUTO DE ESTADÍSTICA TEÓRICA Y APLICADA<\/b>"
+                        "text": "<b>DIRECTOR INSTITUTO DE ESTADÍSTICA TEÓRICA Y APLICADA</b>"
                     }
                 }
             ],
@@ -64,44 +64,15 @@
         "ev_editorial": "Instituto de Estadística Teórica y Aplicada (IETA)",
         "ev_fecha_publicacion": "2024-10-30",
         "ev_estado": true,
-        "created_at": "2026-10-12T22:18:59.000000Z",
-        "updated_at": "2026-11-01T16:57:16.000000Z",
-        "ev_enlace_url": "https:\/\/drive.google.com\/file\/d\/1WTDsRbGEbFlH2CuPdsmm7MjXVyrmETtQ\/view",
-        "portada_url": "\/storage\/41\/gdrive_cqlj2viaa7hm01PRdHi.png",
-        "archivo_url": null,
-        "enlace_url": "https:\/\/drive.google.com\/file\/d\/1WTDsRbGEbFlH2CuPdsmm7MjXVyrmETtQ\/view",
-        "media": [
-            {
-                "id": 41,
-                "model_type": "App\\Models\\EdicionVarianza",
-                "model_id": 2,
-                "uuid": "3a8246cb-116e-401d-a181-42fbc1418785",
-                "collection_name": "ev_portada",
-                "name": "gdrive_cqlj2viaa7hm01PRdHi",
-                "file_name": "gdrive_cqlj2viaa7hm01PRdHi.png",
-                "mime_type": "image\/png",
-                "disk": "public",
-                "conversions_disk": "public",
-                "size": 792935,
-                "manipulations": [],
-                "custom_properties": [],
-                "generated_conversions": [],
-                "responsive_images": [],
-                "order_column": 1,
-                "created_at": "2026-11-01T17:01:12.000000Z",
-                "updated_at": "2026-11-01T17:01:12.000000Z",
-                "original_url": "http:\/\/localhost:8000\/storage\/41\/gdrive_cqlj2viaa7hm01PRdHi.png",
-                "preview_url": ""
-            }
-        ]
+        "ev_enlace_url": "https://drive.google.com/file/d/1WTDsRbGEbFlH2CuPdsmm7MjXVyrmETtQ/view"
     },
     {
         "id": 3,
-        "ev_titulo": "Varianza N° 23, Abril 2024",
         "ev_numero": "23",
         "ev_volumen": null,
         "ev_anio": 2024,
         "ev_mes": "Abril",
+        "ev_titulo": "Varianza N° 23, Abril 2024",
         "ev_slug": "varianza-n-23-abril-2024",
         "ev_issn_ver_impresa": "2789-3510",
         "ev_issn_ver_electronica": "2789-3529",
@@ -137,7 +108,7 @@
                     "id": "99GrOBItrw",
                     "type": "paragraph",
                     "data": {
-                        "text": "Por último, invitamos a visitar en la Web la nueva página de la Revista Varianza a través de la siguiente dirección electrónica:<a href=\"https:\/\/ojs.umsa.bo\/ojs\/index.php\/revistavarianza\" target=\"_blank\">https:\/\/ojs.umsa.bo\/ojs\/index.php\/revistavarianza<\/a>"
+                        "text": "Por último, invitamos a visitar en la Web la nueva página de la Revista Varianza a través de la siguiente dirección electrónica:<a href=\"https://ojs.umsa.bo/ojs/index.php/revistavarianza\" target=\"_blank\">https://ojs.umsa.bo/ojs/index.php/revistavarianza</a>"
                     }
                 }
             ],
@@ -146,44 +117,15 @@
         "ev_editorial": "Instituto de Estadística Teórica y Aplicada (IETA) - UMSA",
         "ev_fecha_publicacion": "2024-04-01",
         "ev_estado": true,
-        "created_at": "2026-11-02T15:35:09.000000Z",
-        "updated_at": "2026-11-02T15:35:09.000000Z",
-        "ev_enlace_url": "https:\/\/drive.google.com\/file\/d\/1B2K34Qk8jMDCA0eBJfXaIXvIjXV9LhxD\/view?pli=1",
-        "portada_url": "\/storage\/42\/portada_drive_1793633712.png",
-        "archivo_url": null,
-        "enlace_url": "https:\/\/drive.google.com\/file\/d\/1B2K34Qk8jMDCA0eBJfXaIXvIjXV9LhxD\/view?pli=1",
-        "media": [
-            {
-                "id": 42,
-                "model_type": "App\\Models\\EdicionVarianza",
-                "model_id": 3,
-                "uuid": "c320b19d-3d12-4d1e-86a9-c0b6b573c99b",
-                "collection_name": "ev_portada",
-                "name": "gdrive_cover_ddff7a10-ec93-4738-838b-30432f503276",
-                "file_name": "portada_drive_1793633712.png",
-                "mime_type": "image\/png",
-                "disk": "public",
-                "conversions_disk": "public",
-                "size": 720138,
-                "manipulations": [],
-                "custom_properties": [],
-                "generated_conversions": [],
-                "responsive_images": [],
-                "order_column": 1,
-                "created_at": "2026-11-02T15:35:12.000000Z",
-                "updated_at": "2026-11-02T15:35:12.000000Z",
-                "original_url": "http:\/\/localhost:8000\/storage\/42\/portada_drive_1793633712.png",
-                "preview_url": ""
-            }
-        ]
+        "ev_enlace_url": "https://drive.google.com/file/d/1B2K34Qk8jMDCA0eBJfXaIXvIjXV9LhxD/view?pli=1"
     },
     {
         "id": 4,
-        "ev_titulo": "Varianza N° 22, Octubre 2023",
         "ev_numero": "22",
         "ev_volumen": null,
         "ev_anio": 2023,
         "ev_mes": "Octubre",
+        "ev_titulo": "Varianza N° 22, Octubre 2023",
         "ev_slug": "varianza-n-22-octubre-2023",
         "ev_issn_ver_impresa": "2789-3510",
         "ev_issn_ver_electronica": "2789-3529",
@@ -228,44 +170,15 @@
         "ev_editorial": "Instituto de Estadística Teórica y Aplicada (IETA) - UMSA",
         "ev_fecha_publicacion": null,
         "ev_estado": true,
-        "created_at": "2026-11-02T16:01:40.000000Z",
-        "updated_at": "2026-11-02T16:01:40.000000Z",
-        "ev_enlace_url": "https:\/\/drive.google.com\/file\/d\/1dTaa9SCipSupz6UG_B-L6OwRgvTFGION\/view",
-        "portada_url": "\/storage\/43\/portada_drive_1793635302.png",
-        "archivo_url": null,
-        "enlace_url": "https:\/\/drive.google.com\/file\/d\/1dTaa9SCipSupz6UG_B-L6OwRgvTFGION\/view",
-        "media": [
-            {
-                "id": 43,
-                "model_type": "App\\Models\\EdicionVarianza",
-                "model_id": 4,
-                "uuid": "4d8d8742-930d-4923-9ebc-6fe432531b9b",
-                "collection_name": "ev_portada",
-                "name": "gdrive_cover_0ae5c707-52ac-41e1-b4d3-8520ce57226b",
-                "file_name": "portada_drive_1793635302.png",
-                "mime_type": "image\/png",
-                "disk": "public",
-                "conversions_disk": "public",
-                "size": 774573,
-                "manipulations": [],
-                "custom_properties": [],
-                "generated_conversions": [],
-                "responsive_images": [],
-                "order_column": 1,
-                "created_at": "2026-11-02T16:01:42.000000Z",
-                "updated_at": "2026-11-02T16:01:42.000000Z",
-                "original_url": "http:\/\/localhost:8000\/storage\/43\/portada_drive_1793635302.png",
-                "preview_url": ""
-            }
-        ]
+        "ev_enlace_url": "https://drive.google.com/file/d/1dTaa9SCipSupz6UG_B-L6OwRgvTFGION/view"
     },
     {
         "id": 5,
-        "ev_titulo": "Varianza N° 1 Noviembre 2001",
         "ev_numero": "1",
         "ev_volumen": null,
         "ev_anio": 2001,
         "ev_mes": "Noviembre",
+        "ev_titulo": "Varianza N° 1 Noviembre 2001",
         "ev_slug": "varianza-n-1-noviembre-2001",
         "ev_issn_ver_impresa": null,
         "ev_issn_ver_electronica": null,
@@ -331,44 +244,15 @@
         "ev_editorial": "Instituto de Estadística Teórica y Aplicada (IETA) - UMSA",
         "ev_fecha_publicacion": null,
         "ev_estado": true,
-        "created_at": "2026-11-02T16:03:35.000000Z",
-        "updated_at": "2026-11-02T16:03:35.000000Z",
-        "ev_enlace_url": "https:\/\/drive.google.com\/file\/d\/1LLReOB_4HkgobuhBs20P6q65IzdBjMNx\/view",
-        "portada_url": "\/storage\/44\/portada_drive_1793635417.png",
-        "archivo_url": null,
-        "enlace_url": "https:\/\/drive.google.com\/file\/d\/1LLReOB_4HkgobuhBs20P6q65IzdBjMNx\/view",
-        "media": [
-            {
-                "id": 44,
-                "model_type": "App\\Models\\EdicionVarianza",
-                "model_id": 5,
-                "uuid": "22845bb2-ca1c-4a20-a30e-debb48006684",
-                "collection_name": "ev_portada",
-                "name": "gdrive_cover_4b59c852-fdee-4298-9594-61a439c9c282",
-                "file_name": "portada_drive_1793635417.png",
-                "mime_type": "image\/png",
-                "disk": "public",
-                "conversions_disk": "public",
-                "size": 1940617,
-                "manipulations": [],
-                "custom_properties": [],
-                "generated_conversions": [],
-                "responsive_images": [],
-                "order_column": 1,
-                "created_at": "2026-11-02T16:03:37.000000Z",
-                "updated_at": "2026-11-02T16:03:37.000000Z",
-                "original_url": "http:\/\/localhost:8000\/storage\/44\/portada_drive_1793635417.png",
-                "preview_url": ""
-            }
-        ]
+        "ev_enlace_url": "https://drive.google.com/file/d/1LLReOB_4HkgobuhBs20P6q65IzdBjMNx/view"
     },
     {
         "id": 6,
-        "ev_titulo": "Varianza N° 2 Noviembre 2002",
         "ev_numero": "2",
         "ev_volumen": null,
         "ev_anio": 2002,
         "ev_mes": "Noviembre",
+        "ev_titulo": "Varianza N° 2 Noviembre 2002",
         "ev_slug": "varianza-n-2-noviembre-2002",
         "ev_issn_ver_impresa": null,
         "ev_issn_ver_electronica": null,
@@ -425,7 +309,7 @@
                     "id": "RvaQm3E_lX",
                     "type": "paragraph",
                     "data": {
-                        "text": "<b>DIRECTORA CARRERA DE ESTADÍSTICA<\/b>"
+                        "text": "<b>DIRECTORA CARRERA DE ESTADÍSTICA</b>"
                     }
                 }
             ],
@@ -434,44 +318,15 @@
         "ev_editorial": "Instituto de Estadística Teórica y Aplicada (IETA) - UMSA",
         "ev_fecha_publicacion": null,
         "ev_estado": true,
-        "created_at": "2026-11-02T16:05:52.000000Z",
-        "updated_at": "2026-11-02T16:06:16.000000Z",
-        "ev_enlace_url": "https:\/\/drive.google.com\/file\/d\/1lrQcDlkSfuozijGLx_nYBZrJlo9og2eX\/view",
-        "portada_url": "\/storage\/45\/portada_drive_1793635555.png",
-        "archivo_url": null,
-        "enlace_url": "https:\/\/drive.google.com\/file\/d\/1lrQcDlkSfuozijGLx_nYBZrJlo9og2eX\/view",
-        "media": [
-            {
-                "id": 45,
-                "model_type": "App\\Models\\EdicionVarianza",
-                "model_id": 6,
-                "uuid": "4c08c521-3dc6-4cd1-b9d9-1cc15506f1fc",
-                "collection_name": "ev_portada",
-                "name": "gdrive_cover_1c761635-6303-4b2c-b00f-eb27155f0d53",
-                "file_name": "portada_drive_1793635555.png",
-                "mime_type": "image\/png",
-                "disk": "public",
-                "conversions_disk": "public",
-                "size": 1684637,
-                "manipulations": [],
-                "custom_properties": [],
-                "generated_conversions": [],
-                "responsive_images": [],
-                "order_column": 1,
-                "created_at": "2026-11-02T16:05:55.000000Z",
-                "updated_at": "2026-11-02T16:05:55.000000Z",
-                "original_url": "http:\/\/localhost:8000\/storage\/45\/portada_drive_1793635555.png",
-                "preview_url": ""
-            }
-        ]
+        "ev_enlace_url": "https://drive.google.com/file/d/1lrQcDlkSfuozijGLx_nYBZrJlo9og2eX/view"
     },
     {
         "id": 7,
-        "ev_titulo": "Varianza N° 3 Diciembre 2003",
         "ev_numero": "3",
         "ev_volumen": null,
         "ev_anio": 2003,
         "ev_mes": "Diciembre",
+        "ev_titulo": "Varianza N° 3 Diciembre 2003",
         "ev_slug": "varianza-n-3-diciembre-2003",
         "ev_issn_ver_impresa": null,
         "ev_issn_ver_electronica": null,
@@ -514,7 +369,7 @@
                     "id": "FmqBaFiEZx",
                     "type": "paragraph",
                     "data": {
-                        "text": "<b>DIRECTOR CARRERA DE ESTADÍSTICA<\/b>"
+                        "text": "<b>DIRECTOR CARRERA DE ESTADÍSTICA</b>"
                     }
                 }
             ],
@@ -523,44 +378,15 @@
         "ev_editorial": "Instituto de Estadística Teórica y Aplicada (IETA) - UMSA",
         "ev_fecha_publicacion": null,
         "ev_estado": true,
-        "created_at": "2026-11-02T16:07:40.000000Z",
-        "updated_at": "2026-11-02T16:07:40.000000Z",
-        "ev_enlace_url": "https:\/\/drive.google.com\/file\/d\/19FNHfNBlj410zt-XXmLuz9T6FBoY0gwP\/view",
-        "portada_url": "\/storage\/46\/portada_drive_1793635662.png",
-        "archivo_url": null,
-        "enlace_url": "https:\/\/drive.google.com\/file\/d\/19FNHfNBlj410zt-XXmLuz9T6FBoY0gwP\/view",
-        "media": [
-            {
-                "id": 46,
-                "model_type": "App\\Models\\EdicionVarianza",
-                "model_id": 7,
-                "uuid": "2e3bcd30-83b0-4a51-8300-572b2643a2bc",
-                "collection_name": "ev_portada",
-                "name": "gdrive_cover_e7346c9d-6e37-487b-94ff-452142516cb7",
-                "file_name": "portada_drive_1793635662.png",
-                "mime_type": "image\/png",
-                "disk": "public",
-                "conversions_disk": "public",
-                "size": 1309287,
-                "manipulations": [],
-                "custom_properties": [],
-                "generated_conversions": [],
-                "responsive_images": [],
-                "order_column": 1,
-                "created_at": "2026-11-02T16:07:42.000000Z",
-                "updated_at": "2026-11-02T16:07:42.000000Z",
-                "original_url": "http:\/\/localhost:8000\/storage\/46\/portada_drive_1793635662.png",
-                "preview_url": ""
-            }
-        ]
+        "ev_enlace_url": "https://drive.google.com/file/d/19FNHfNBlj410zt-XXmLuz9T6FBoY0gwP/view"
     },
     {
         "id": 8,
-        "ev_titulo": "Varianza N° 4 Octubre 2005",
         "ev_numero": "4",
         "ev_volumen": null,
         "ev_anio": 2005,
         "ev_mes": "Octubre",
+        "ev_titulo": "Varianza N° 4 Octubre 2005",
         "ev_slug": "varianza-n-4-octubre-2005",
         "ev_issn_ver_impresa": null,
         "ev_issn_ver_electronica": null,
@@ -603,7 +429,7 @@
                     "id": "2nosKB4OS0",
                     "type": "paragraph",
                     "data": {
-                        "text": "<b>DIRECTOR CARRERA DE ESTADÍSTICA<\/b>"
+                        "text": "<b>DIRECTOR CARRERA DE ESTADÍSTICA</b>"
                     }
                 }
             ],
@@ -612,44 +438,15 @@
         "ev_editorial": "Instituto de Estadística Teórica y Aplicada (IETA) - UMSA",
         "ev_fecha_publicacion": null,
         "ev_estado": true,
-        "created_at": "2026-11-02T16:09:38.000000Z",
-        "updated_at": "2026-11-02T16:09:38.000000Z",
-        "ev_enlace_url": "https:\/\/drive.google.com\/file\/d\/14kzCQb3YEOfzYLBM5ZNfUOlZwUk0umgk\/view",
-        "portada_url": "\/storage\/47\/portada_drive_1793635780.png",
-        "archivo_url": null,
-        "enlace_url": "https:\/\/drive.google.com\/file\/d\/14kzCQb3YEOfzYLBM5ZNfUOlZwUk0umgk\/view",
-        "media": [
-            {
-                "id": 47,
-                "model_type": "App\\Models\\EdicionVarianza",
-                "model_id": 8,
-                "uuid": "9949481f-a3fd-4052-94f3-7447c8a6d7b8",
-                "collection_name": "ev_portada",
-                "name": "gdrive_cover_bcebfd84-2d83-49c5-a688-b1f1999467a6",
-                "file_name": "portada_drive_1793635780.png",
-                "mime_type": "image\/png",
-                "disk": "public",
-                "conversions_disk": "public",
-                "size": 1556340,
-                "manipulations": [],
-                "custom_properties": [],
-                "generated_conversions": [],
-                "responsive_images": [],
-                "order_column": 1,
-                "created_at": "2026-11-02T16:09:40.000000Z",
-                "updated_at": "2026-11-02T16:09:40.000000Z",
-                "original_url": "http:\/\/localhost:8000\/storage\/47\/portada_drive_1793635780.png",
-                "preview_url": ""
-            }
-        ]
+        "ev_enlace_url": "https://drive.google.com/file/d/14kzCQb3YEOfzYLBM5ZNfUOlZwUk0umgk/view"
     },
     {
         "id": 9,
-        "ev_titulo": "Varianza N° 5 Octubre 2006",
         "ev_numero": "5",
         "ev_volumen": null,
         "ev_anio": 2006,
         "ev_mes": "Octubre",
+        "ev_titulo": "Varianza N° 5 Octubre 2006",
         "ev_slug": "varianza-n-5-octubre-2006",
         "ev_issn_ver_impresa": null,
         "ev_issn_ver_electronica": null,
@@ -685,7 +482,7 @@
                     "id": "T99bW2o9He",
                     "type": "paragraph",
                     "data": {
-                        "text": "<b>DIRECTOR DE LA CARRERA DE ESTADISTICA<\/b>"
+                        "text": "<b>DIRECTOR DE LA CARRERA DE ESTADISTICA</b>"
                     }
                 }
             ],
@@ -694,44 +491,15 @@
         "ev_editorial": "Instituto de Estadística Teórica y Aplicada (IETA) - UMSA",
         "ev_fecha_publicacion": null,
         "ev_estado": true,
-        "created_at": "2026-11-02T16:11:22.000000Z",
-        "updated_at": "2026-11-02T16:11:22.000000Z",
-        "ev_enlace_url": "https:\/\/drive.google.com\/file\/d\/1m24FpEWSQc2-W16An4wwzJK8xBCFoAQi\/view",
-        "portada_url": "\/storage\/48\/portada_drive_1793635884.png",
-        "archivo_url": null,
-        "enlace_url": "https:\/\/drive.google.com\/file\/d\/1m24FpEWSQc2-W16An4wwzJK8xBCFoAQi\/view",
-        "media": [
-            {
-                "id": 48,
-                "model_type": "App\\Models\\EdicionVarianza",
-                "model_id": 9,
-                "uuid": "9fba3963-851f-47d2-9c3d-bb2b30d93f80",
-                "collection_name": "ev_portada",
-                "name": "gdrive_cover_bfe74031-8dc0-4030-ba7d-a2541dee38f0",
-                "file_name": "portada_drive_1793635884.png",
-                "mime_type": "image\/png",
-                "disk": "public",
-                "conversions_disk": "public",
-                "size": 1227668,
-                "manipulations": [],
-                "custom_properties": [],
-                "generated_conversions": [],
-                "responsive_images": [],
-                "order_column": 1,
-                "created_at": "2026-11-02T16:11:24.000000Z",
-                "updated_at": "2026-11-02T16:11:24.000000Z",
-                "original_url": "http:\/\/localhost:8000\/storage\/48\/portada_drive_1793635884.png",
-                "preview_url": ""
-            }
-        ]
+        "ev_enlace_url": "https://drive.google.com/file/d/1m24FpEWSQc2-W16An4wwzJK8xBCFoAQi/view"
     },
     {
         "id": 10,
-        "ev_titulo": "Varianza N° 6 Noviembre 2007",
         "ev_numero": "6",
         "ev_volumen": null,
         "ev_anio": 2007,
         "ev_mes": "Noviembre",
+        "ev_titulo": "Varianza N° 6 Noviembre 2007",
         "ev_slug": "varianza-n-6-noviembre-2007",
         "ev_issn_ver_impresa": null,
         "ev_issn_ver_electronica": null,
@@ -745,44 +513,15 @@
         "ev_editorial": "Instituto de Estadística Teórica y Aplicada (IETA) - UMSA",
         "ev_fecha_publicacion": null,
         "ev_estado": true,
-        "created_at": "2026-11-02T16:12:43.000000Z",
-        "updated_at": "2026-11-02T16:12:43.000000Z",
-        "ev_enlace_url": "https:\/\/drive.google.com\/file\/d\/1uUy8EGh5Mf00cCpRei6TAxp3TEojT8Mf\/view",
-        "portada_url": "\/storage\/49\/portada_drive_1793635965.png",
-        "archivo_url": null,
-        "enlace_url": "https:\/\/drive.google.com\/file\/d\/1uUy8EGh5Mf00cCpRei6TAxp3TEojT8Mf\/view",
-        "media": [
-            {
-                "id": 49,
-                "model_type": "App\\Models\\EdicionVarianza",
-                "model_id": 10,
-                "uuid": "52b6a252-eb6b-4cbb-b143-e284007b4560",
-                "collection_name": "ev_portada",
-                "name": "gdrive_cover_69fa995c-d043-4fea-bbfd-7fe061efafbe",
-                "file_name": "portada_drive_1793635965.png",
-                "mime_type": "image\/png",
-                "disk": "public",
-                "conversions_disk": "public",
-                "size": 1225504,
-                "manipulations": [],
-                "custom_properties": [],
-                "generated_conversions": [],
-                "responsive_images": [],
-                "order_column": 1,
-                "created_at": "2026-11-02T16:12:45.000000Z",
-                "updated_at": "2026-11-02T16:12:45.000000Z",
-                "original_url": "http:\/\/localhost:8000\/storage\/49\/portada_drive_1793635965.png",
-                "preview_url": ""
-            }
-        ]
+        "ev_enlace_url": "https://drive.google.com/file/d/1uUy8EGh5Mf00cCpRei6TAxp3TEojT8Mf/view"
     },
     {
         "id": 11,
-        "ev_titulo": "Varianza N° 7 Noviembre 2010",
         "ev_numero": "7",
         "ev_volumen": null,
         "ev_anio": 2010,
         "ev_mes": "Noviembre",
+        "ev_titulo": "Varianza N° 7 Noviembre 2010",
         "ev_slug": "varianza-n-7-noviembre-2010",
         "ev_issn_ver_impresa": null,
         "ev_issn_ver_electronica": null,
@@ -818,7 +557,7 @@
                     "id": "Uqkql_YlzW",
                     "type": "paragraph",
                     "data": {
-                        "text": "<b>DIRECTOR a.i. CARRERA DE ESTADÍSTICA<\/b>"
+                        "text": "<b>DIRECTOR a.i. CARRERA DE ESTADÍSTICA</b>"
                     }
                 }
             ],
@@ -827,44 +566,15 @@
         "ev_editorial": "Instituto de Estadística Teórica y Aplicada (IETA) - UMSA",
         "ev_fecha_publicacion": null,
         "ev_estado": true,
-        "created_at": "2026-11-02T16:15:31.000000Z",
-        "updated_at": "2026-11-02T16:15:31.000000Z",
-        "ev_enlace_url": "https:\/\/drive.google.com\/file\/d\/1kAwMJLbkRSTvEcreoMRtlj9blvzAlvR9\/view",
-        "portada_url": "\/storage\/50\/portada_drive_1793636133.png",
-        "archivo_url": null,
-        "enlace_url": "https:\/\/drive.google.com\/file\/d\/1kAwMJLbkRSTvEcreoMRtlj9blvzAlvR9\/view",
-        "media": [
-            {
-                "id": 50,
-                "model_type": "App\\Models\\EdicionVarianza",
-                "model_id": 11,
-                "uuid": "b45848a0-3e07-4f74-b74c-d2432e5c2d8a",
-                "collection_name": "ev_portada",
-                "name": "gdrive_cover_921b93cf-85e6-4e9b-b8bc-d14296d6e8b6",
-                "file_name": "portada_drive_1793636133.png",
-                "mime_type": "image\/png",
-                "disk": "public",
-                "conversions_disk": "public",
-                "size": 995259,
-                "manipulations": [],
-                "custom_properties": [],
-                "generated_conversions": [],
-                "responsive_images": [],
-                "order_column": 1,
-                "created_at": "2026-11-02T16:15:33.000000Z",
-                "updated_at": "2026-11-02T16:15:33.000000Z",
-                "original_url": "http:\/\/localhost:8000\/storage\/50\/portada_drive_1793636133.png",
-                "preview_url": ""
-            }
-        ]
+        "ev_enlace_url": "https://drive.google.com/file/d/1kAwMJLbkRSTvEcreoMRtlj9blvzAlvR9/view"
     },
     {
         "id": 12,
-        "ev_titulo": "Varianza N° 8 Noviembre 2011",
         "ev_numero": "8",
         "ev_volumen": null,
         "ev_anio": 2011,
         "ev_mes": "Noviembre",
+        "ev_titulo": "Varianza N° 8 Noviembre 2011",
         "ev_slug": "varianza-n-8-noviembre-2011",
         "ev_issn_ver_impresa": null,
         "ev_issn_ver_electronica": null,
@@ -907,7 +617,7 @@
                     "id": "B0rETNALXf",
                     "type": "paragraph",
                     "data": {
-                        "text": "<b>DIRECTOR CARRERA DE ESTADÍSTICA<\/b>"
+                        "text": "<b>DIRECTOR CARRERA DE ESTADÍSTICA</b>"
                     }
                 }
             ],
@@ -916,44 +626,15 @@
         "ev_editorial": "Instituto de Estadística Teórica y Aplicada (IETA) - UMSA",
         "ev_fecha_publicacion": null,
         "ev_estado": true,
-        "created_at": "2026-11-02T16:16:57.000000Z",
-        "updated_at": "2026-11-02T16:16:57.000000Z",
-        "ev_enlace_url": "https:\/\/drive.google.com\/file\/d\/1DVCyORiqq0bsvmblVm1Sz_MnKvNCcxBy\/view",
-        "portada_url": "\/storage\/51\/portada_drive_1793636220.png",
-        "archivo_url": null,
-        "enlace_url": "https:\/\/drive.google.com\/file\/d\/1DVCyORiqq0bsvmblVm1Sz_MnKvNCcxBy\/view",
-        "media": [
-            {
-                "id": 51,
-                "model_type": "App\\Models\\EdicionVarianza",
-                "model_id": 12,
-                "uuid": "906b80e7-cbc9-4859-81c0-5cfefbadaeec",
-                "collection_name": "ev_portada",
-                "name": "gdrive_cover_6e10759e-fba9-447d-8148-b4d140285fa1",
-                "file_name": "portada_drive_1793636220.png",
-                "mime_type": "image\/png",
-                "disk": "public",
-                "conversions_disk": "public",
-                "size": 1259071,
-                "manipulations": [],
-                "custom_properties": [],
-                "generated_conversions": [],
-                "responsive_images": [],
-                "order_column": 1,
-                "created_at": "2026-11-02T16:17:00.000000Z",
-                "updated_at": "2026-11-02T16:17:00.000000Z",
-                "original_url": "http:\/\/localhost:8000\/storage\/51\/portada_drive_1793636220.png",
-                "preview_url": ""
-            }
-        ]
+        "ev_enlace_url": "https://drive.google.com/file/d/1DVCyORiqq0bsvmblVm1Sz_MnKvNCcxBy/view"
     },
     {
         "id": 13,
-        "ev_titulo": "Varianza N° 9 Noviembre 2012",
         "ev_numero": "9",
         "ev_volumen": null,
         "ev_anio": 2012,
         "ev_mes": "Noviembre",
+        "ev_titulo": "Varianza N° 9 Noviembre 2012",
         "ev_slug": "varianza-n-9-noviembre-2012",
         "ev_issn_ver_impresa": null,
         "ev_issn_ver_electronica": null,
@@ -996,7 +677,7 @@
                     "id": "GPYfTG-gm0",
                     "type": "paragraph",
                     "data": {
-                        "text": "<b>DIRECTOR CARRERA DE ESTADÍSTICA<\/b>"
+                        "text": "<b>DIRECTOR CARRERA DE ESTADÍSTICA</b>"
                     }
                 }
             ],
@@ -1005,44 +686,15 @@
         "ev_editorial": "Instituto de Estadística Teórica y Aplicada (IETA) - UMSA",
         "ev_fecha_publicacion": null,
         "ev_estado": true,
-        "created_at": "2026-11-02T16:19:44.000000Z",
-        "updated_at": "2026-11-02T16:19:44.000000Z",
-        "ev_enlace_url": "https:\/\/drive.google.com\/file\/d\/1ZL_UYpQBtHn516mvYQrz6g_-tIgKjgWC\/view",
-        "portada_url": "\/storage\/52\/portada_drive_1793636386.png",
-        "archivo_url": null,
-        "enlace_url": "https:\/\/drive.google.com\/file\/d\/1ZL_UYpQBtHn516mvYQrz6g_-tIgKjgWC\/view",
-        "media": [
-            {
-                "id": 52,
-                "model_type": "App\\Models\\EdicionVarianza",
-                "model_id": 13,
-                "uuid": "554799d0-974b-4424-a72e-5c76fe1051a5",
-                "collection_name": "ev_portada",
-                "name": "gdrive_cover_a41529cc-2f5d-41d8-91e9-868930632cba",
-                "file_name": "portada_drive_1793636386.png",
-                "mime_type": "image\/png",
-                "disk": "public",
-                "conversions_disk": "public",
-                "size": 1763276,
-                "manipulations": [],
-                "custom_properties": [],
-                "generated_conversions": [],
-                "responsive_images": [],
-                "order_column": 1,
-                "created_at": "2026-11-02T16:19:46.000000Z",
-                "updated_at": "2026-11-02T16:19:46.000000Z",
-                "original_url": "http:\/\/localhost:8000\/storage\/52\/portada_drive_1793636386.png",
-                "preview_url": ""
-            }
-        ]
+        "ev_enlace_url": "https://drive.google.com/file/d/1ZL_UYpQBtHn516mvYQrz6g_-tIgKjgWC/view"
     },
     {
         "id": 14,
-        "ev_titulo": "Varianza N° 10 Noviembre 2013",
         "ev_numero": "10",
         "ev_volumen": null,
         "ev_anio": 2013,
         "ev_mes": "Noviembre",
+        "ev_titulo": "Varianza N° 10 Noviembre 2013",
         "ev_slug": "varianza-n-10-noviembre-2013",
         "ev_issn_ver_impresa": null,
         "ev_issn_ver_electronica": null,
@@ -1092,7 +744,7 @@
                     "id": "GBbIIPYRhX",
                     "type": "paragraph",
                     "data": {
-                        "text": "<b>DIRECTOR CARRERA DE ESTADÍSTICA<\/b>"
+                        "text": "<b>DIRECTOR CARRERA DE ESTADÍSTICA</b>"
                     }
                 }
             ],
@@ -1101,44 +753,15 @@
         "ev_editorial": "Instituto de Estadística Teórica y Aplicada (IETA) - UMSA",
         "ev_fecha_publicacion": null,
         "ev_estado": true,
-        "created_at": "2026-11-02T16:20:52.000000Z",
-        "updated_at": "2026-11-02T16:20:52.000000Z",
-        "ev_enlace_url": "https:\/\/drive.google.com\/file\/d\/1hdVIi55kD3RRkEyxeiYp3qpCS-rgg3vt\/view",
-        "portada_url": "\/storage\/53\/portada_drive_1793636455.png",
-        "archivo_url": null,
-        "enlace_url": "https:\/\/drive.google.com\/file\/d\/1hdVIi55kD3RRkEyxeiYp3qpCS-rgg3vt\/view",
-        "media": [
-            {
-                "id": 53,
-                "model_type": "App\\Models\\EdicionVarianza",
-                "model_id": 14,
-                "uuid": "9fdfc0df-d2d2-496a-b8ae-d140f1a97469",
-                "collection_name": "ev_portada",
-                "name": "gdrive_cover_cd49f3d8-f281-426e-b115-c41e87fda466",
-                "file_name": "portada_drive_1793636455.png",
-                "mime_type": "image\/png",
-                "disk": "public",
-                "conversions_disk": "public",
-                "size": 1476029,
-                "manipulations": [],
-                "custom_properties": [],
-                "generated_conversions": [],
-                "responsive_images": [],
-                "order_column": 1,
-                "created_at": "2026-11-02T16:20:55.000000Z",
-                "updated_at": "2026-11-02T16:20:55.000000Z",
-                "original_url": "http:\/\/localhost:8000\/storage\/53\/portada_drive_1793636455.png",
-                "preview_url": ""
-            }
-        ]
+        "ev_enlace_url": "https://drive.google.com/file/d/1hdVIi55kD3RRkEyxeiYp3qpCS-rgg3vt/view"
     },
     {
         "id": 15,
-        "ev_titulo": "Varianza N° 11 Febrero 2015",
         "ev_numero": "11",
         "ev_volumen": null,
         "ev_anio": 2015,
         "ev_mes": "Febrero",
+        "ev_titulo": "Varianza N° 11 Febrero 2015",
         "ev_slug": "varianza-n-11-febrero-2015",
         "ev_issn_ver_impresa": null,
         "ev_issn_ver_electronica": null,
@@ -1174,7 +797,7 @@
                     "id": "6LmP9IoGmU",
                     "type": "paragraph",
                     "data": {
-                        "text": "<b>DIRECTOR CARRERA DE ESTADÍSTICA<\/b>"
+                        "text": "<b>DIRECTOR CARRERA DE ESTADÍSTICA</b>"
                     }
                 }
             ],
@@ -1183,44 +806,15 @@
         "ev_editorial": "Instituto de Estadística Teórica y Aplicada (IETA) - UMSA",
         "ev_fecha_publicacion": null,
         "ev_estado": true,
-        "created_at": "2026-11-02T16:22:43.000000Z",
-        "updated_at": "2026-11-02T16:22:43.000000Z",
-        "ev_enlace_url": "https:\/\/drive.google.com\/file\/d\/1A7doiUworj-EuCbgEL-PHauMoDMMz7zj\/view",
-        "portada_url": "\/storage\/54\/portada_drive_1793636565.png",
-        "archivo_url": null,
-        "enlace_url": "https:\/\/drive.google.com\/file\/d\/1A7doiUworj-EuCbgEL-PHauMoDMMz7zj\/view",
-        "media": [
-            {
-                "id": 54,
-                "model_type": "App\\Models\\EdicionVarianza",
-                "model_id": 15,
-                "uuid": "2ef95b99-5ef5-4490-a351-47da80fd1977",
-                "collection_name": "ev_portada",
-                "name": "gdrive_cover_a67bcec1-2a9c-47ea-bb4f-012f4550646b",
-                "file_name": "portada_drive_1793636565.png",
-                "mime_type": "image\/png",
-                "disk": "public",
-                "conversions_disk": "public",
-                "size": 823427,
-                "manipulations": [],
-                "custom_properties": [],
-                "generated_conversions": [],
-                "responsive_images": [],
-                "order_column": 1,
-                "created_at": "2026-11-02T16:22:45.000000Z",
-                "updated_at": "2026-11-02T16:22:45.000000Z",
-                "original_url": "http:\/\/localhost:8000\/storage\/54\/portada_drive_1793636565.png",
-                "preview_url": ""
-            }
-        ]
+        "ev_enlace_url": "https://drive.google.com/file/d/1A7doiUworj-EuCbgEL-PHauMoDMMz7zj/view"
     },
     {
         "id": 16,
-        "ev_titulo": "Varianza N° 12 Septiembre 2016",
         "ev_numero": "12",
         "ev_volumen": null,
         "ev_anio": 2016,
         "ev_mes": "Septiembre",
+        "ev_titulo": "Varianza N° 12 Septiembre 2016",
         "ev_slug": "varianza-n-12-septiembre-2016",
         "ev_issn_ver_impresa": null,
         "ev_issn_ver_electronica": null,
@@ -1263,7 +857,7 @@
                     "id": "eb9ZxEU3Zz",
                     "type": "paragraph",
                     "data": {
-                        "text": "<b>DIRECTOR CARRERA DE ESTADÍSTICA<\/b>"
+                        "text": "<b>DIRECTOR CARRERA DE ESTADÍSTICA</b>"
                     }
                 }
             ],
@@ -1272,44 +866,15 @@
         "ev_editorial": "Instituto de Estadística Teórica y Aplicada (IETA) - UMSA",
         "ev_fecha_publicacion": null,
         "ev_estado": true,
-        "created_at": "2026-11-02T16:23:56.000000Z",
-        "updated_at": "2026-11-02T16:23:56.000000Z",
-        "ev_enlace_url": "https:\/\/drive.google.com\/file\/d\/1v_ahbqjmARTrHPMKNPb18CodSCNnYKeS\/view",
-        "portada_url": "\/storage\/55\/portada_drive_1793636638.png",
-        "archivo_url": null,
-        "enlace_url": "https:\/\/drive.google.com\/file\/d\/1v_ahbqjmARTrHPMKNPb18CodSCNnYKeS\/view",
-        "media": [
-            {
-                "id": 55,
-                "model_type": "App\\Models\\EdicionVarianza",
-                "model_id": 16,
-                "uuid": "73ff892a-b1e7-498d-a7d6-4ef5aa8d5343",
-                "collection_name": "ev_portada",
-                "name": "gdrive_cover_d7c5cfc7-21de-4ec2-8d8c-d65f7ee45080",
-                "file_name": "portada_drive_1793636638.png",
-                "mime_type": "image\/png",
-                "disk": "public",
-                "conversions_disk": "public",
-                "size": 1349513,
-                "manipulations": [],
-                "custom_properties": [],
-                "generated_conversions": [],
-                "responsive_images": [],
-                "order_column": 1,
-                "created_at": "2026-11-02T16:23:58.000000Z",
-                "updated_at": "2026-11-02T16:23:58.000000Z",
-                "original_url": "http:\/\/localhost:8000\/storage\/55\/portada_drive_1793636638.png",
-                "preview_url": ""
-            }
-        ]
+        "ev_enlace_url": "https://drive.google.com/file/d/1v_ahbqjmARTrHPMKNPb18CodSCNnYKeS/view"
     },
     {
         "id": 17,
-        "ev_titulo": "Varianza N° 13 Septiembre 2017",
         "ev_numero": "13",
         "ev_volumen": null,
         "ev_anio": 2017,
         "ev_mes": "Septiembre",
+        "ev_titulo": "Varianza N° 13 Septiembre 2017",
         "ev_slug": "varianza-n-13-septiembre-2017",
         "ev_issn_ver_impresa": null,
         "ev_issn_ver_electronica": null,
@@ -1359,7 +924,7 @@
                     "id": "prLEkS6Shb",
                     "type": "paragraph",
                     "data": {
-                        "text": "<b>DIRECTOR CARRERA DE ESTADÍSTICA<\/b>"
+                        "text": "<b>DIRECTOR CARRERA DE ESTADÍSTICA</b>"
                     }
                 }
             ],
@@ -1368,44 +933,15 @@
         "ev_editorial": "Instituto de Estadística Teórica y Aplicada (IETA) - UMSA",
         "ev_fecha_publicacion": null,
         "ev_estado": true,
-        "created_at": "2026-11-02T16:27:18.000000Z",
-        "updated_at": "2026-11-02T16:27:18.000000Z",
-        "ev_enlace_url": "https:\/\/drive.google.com\/file\/d\/1My89YFlsttSCC64HwyXrhDdhx5SloOId\/view",
-        "portada_url": "\/storage\/56\/portada_drive_1793636841.png",
-        "archivo_url": null,
-        "enlace_url": "https:\/\/drive.google.com\/file\/d\/1My89YFlsttSCC64HwyXrhDdhx5SloOId\/view",
-        "media": [
-            {
-                "id": 56,
-                "model_type": "App\\Models\\EdicionVarianza",
-                "model_id": 17,
-                "uuid": "a486bb05-7255-475c-9d71-9c28166e6dd9",
-                "collection_name": "ev_portada",
-                "name": "gdrive_cover_76666777-7ce1-44eb-8222-90620f924737",
-                "file_name": "portada_drive_1793636841.png",
-                "mime_type": "image\/png",
-                "disk": "public",
-                "conversions_disk": "public",
-                "size": 1429602,
-                "manipulations": [],
-                "custom_properties": [],
-                "generated_conversions": [],
-                "responsive_images": [],
-                "order_column": 1,
-                "created_at": "2026-11-02T16:27:21.000000Z",
-                "updated_at": "2026-11-02T16:27:21.000000Z",
-                "original_url": "http:\/\/localhost:8000\/storage\/56\/portada_drive_1793636841.png",
-                "preview_url": ""
-            }
-        ]
+        "ev_enlace_url": "https://drive.google.com/file/d/1My89YFlsttSCC64HwyXrhDdhx5SloOId/view"
     },
     {
         "id": 18,
-        "ev_titulo": "Varianza N° 14 Diciembre 2017",
         "ev_numero": "14",
         "ev_volumen": null,
         "ev_anio": 2017,
         "ev_mes": "Diciembre",
+        "ev_titulo": "Varianza N° 14 Diciembre 2017",
         "ev_slug": "varianza-n-14-diciembre-2017",
         "ev_issn_ver_impresa": null,
         "ev_issn_ver_electronica": null,
@@ -1441,7 +977,7 @@
                     "id": "TnvO9qvZ2o",
                     "type": "paragraph",
                     "data": {
-                        "text": "<b>DIRECTORA a.i. CARRERA DE ESTADISTICA<\/b>"
+                        "text": "<b>DIRECTORA a.i. CARRERA DE ESTADISTICA</b>"
                     }
                 }
             ],
@@ -1450,44 +986,15 @@
         "ev_editorial": "Instituto de Estadística Teórica y Aplicada (IETA) - UMSA",
         "ev_fecha_publicacion": null,
         "ev_estado": true,
-        "created_at": "2026-11-02T16:31:54.000000Z",
-        "updated_at": "2026-11-02T16:31:54.000000Z",
-        "ev_enlace_url": "https:\/\/drive.google.com\/file\/d\/145_aKG-RXVlXKGHxoUnRJaUTFy0g9tgm\/view",
-        "portada_url": "\/storage\/57\/portada_drive_1793637117.png",
-        "archivo_url": null,
-        "enlace_url": "https:\/\/drive.google.com\/file\/d\/145_aKG-RXVlXKGHxoUnRJaUTFy0g9tgm\/view",
-        "media": [
-            {
-                "id": 57,
-                "model_type": "App\\Models\\EdicionVarianza",
-                "model_id": 18,
-                "uuid": "9bf17dbc-8191-4534-8aaf-43cb03f98d4e",
-                "collection_name": "ev_portada",
-                "name": "gdrive_cover_6bcc82ce-3ada-4849-8847-1754fe8a32a5",
-                "file_name": "portada_drive_1793637117.png",
-                "mime_type": "image\/png",
-                "disk": "public",
-                "conversions_disk": "public",
-                "size": 1713935,
-                "manipulations": [],
-                "custom_properties": [],
-                "generated_conversions": [],
-                "responsive_images": [],
-                "order_column": 1,
-                "created_at": "2026-11-02T16:31:57.000000Z",
-                "updated_at": "2026-11-02T16:31:57.000000Z",
-                "original_url": "http:\/\/localhost:8000\/storage\/57\/portada_drive_1793637117.png",
-                "preview_url": ""
-            }
-        ]
+        "ev_enlace_url": "https://drive.google.com/file/d/145_aKG-RXVlXKGHxoUnRJaUTFy0g9tgm/view"
     },
     {
         "id": 19,
-        "ev_titulo": "Varianza N° 15 Noviembre 2018",
         "ev_numero": "15",
         "ev_volumen": null,
         "ev_anio": 2018,
         "ev_mes": "Noviembre",
+        "ev_titulo": "Varianza N° 15 Noviembre 2018",
         "ev_slug": "varianza-n-15-noviembre-2018",
         "ev_issn_ver_impresa": null,
         "ev_issn_ver_electronica": null,
@@ -1530,7 +1037,7 @@
                     "id": "HGJENe0cTm",
                     "type": "paragraph",
                     "data": {
-                        "text": "<b>DIRECTOR CARRERA DE ESTADISTICA<\/b>"
+                        "text": "<b>DIRECTOR CARRERA DE ESTADISTICA</b>"
                     }
                 }
             ],
@@ -1539,44 +1046,15 @@
         "ev_editorial": "Instituto de Estadística Teórica y Aplicada (IETA) - UMSA",
         "ev_fecha_publicacion": null,
         "ev_estado": true,
-        "created_at": "2026-11-02T16:33:06.000000Z",
-        "updated_at": "2026-11-02T16:33:06.000000Z",
-        "ev_enlace_url": "https:\/\/drive.google.com\/file\/d\/1lHwjwKaoX2GZy6aYz7QoWctNB87aJkUs\/view",
-        "portada_url": "\/storage\/58\/portada_drive_1793637188.png",
-        "archivo_url": null,
-        "enlace_url": "https:\/\/drive.google.com\/file\/d\/1lHwjwKaoX2GZy6aYz7QoWctNB87aJkUs\/view",
-        "media": [
-            {
-                "id": 58,
-                "model_type": "App\\Models\\EdicionVarianza",
-                "model_id": 19,
-                "uuid": "b39545c2-206b-4fd1-9e18-347c64cfa8d3",
-                "collection_name": "ev_portada",
-                "name": "gdrive_cover_634f30d8-c10e-466a-9f2d-cb0408f1d860",
-                "file_name": "portada_drive_1793637188.png",
-                "mime_type": "image\/png",
-                "disk": "public",
-                "conversions_disk": "public",
-                "size": 1263652,
-                "manipulations": [],
-                "custom_properties": [],
-                "generated_conversions": [],
-                "responsive_images": [],
-                "order_column": 1,
-                "created_at": "2026-11-02T16:33:08.000000Z",
-                "updated_at": "2026-11-02T16:33:08.000000Z",
-                "original_url": "http:\/\/localhost:8000\/storage\/58\/portada_drive_1793637188.png",
-                "preview_url": ""
-            }
-        ]
+        "ev_enlace_url": "https://drive.google.com/file/d/1lHwjwKaoX2GZy6aYz7QoWctNB87aJkUs/view"
     },
     {
         "id": 20,
-        "ev_titulo": "Varianza N° 16 Octubre 2019",
         "ev_numero": "16",
         "ev_volumen": null,
         "ev_anio": 2019,
         "ev_mes": "Octubre",
+        "ev_titulo": "Varianza N° 16 Octubre 2019",
         "ev_slug": "varianza-n-16-octubre-2019",
         "ev_issn_ver_impresa": null,
         "ev_issn_ver_electronica": null,
@@ -1619,7 +1097,7 @@
                     "id": "xpHcHByprE",
                     "type": "paragraph",
                     "data": {
-                        "text": "<b>DIRECTOR CARRERA DE ESTADISTICA<\/b>"
+                        "text": "<b>DIRECTOR CARRERA DE ESTADISTICA</b>"
                     }
                 }
             ],
@@ -1628,44 +1106,15 @@
         "ev_editorial": "Instituto de Estadística Teórica y Aplicada (IETA) - UMSA",
         "ev_fecha_publicacion": null,
         "ev_estado": true,
-        "created_at": "2026-11-02T16:34:55.000000Z",
-        "updated_at": "2026-11-02T16:34:55.000000Z",
-        "ev_enlace_url": "https:\/\/drive.google.com\/file\/d\/1RbtEvQdQJns1wAnlAqeRp49MnFCxlucg\/view",
-        "portada_url": "\/storage\/59\/portada_drive_1793637297.png",
-        "archivo_url": null,
-        "enlace_url": "https:\/\/drive.google.com\/file\/d\/1RbtEvQdQJns1wAnlAqeRp49MnFCxlucg\/view",
-        "media": [
-            {
-                "id": 59,
-                "model_type": "App\\Models\\EdicionVarianza",
-                "model_id": 20,
-                "uuid": "c1b191b7-5348-444f-85e8-fdbe1bcf06e5",
-                "collection_name": "ev_portada",
-                "name": "gdrive_cover_50d7742f-f72a-4927-b6f0-88b8497f52cb",
-                "file_name": "portada_drive_1793637297.png",
-                "mime_type": "image\/png",
-                "disk": "public",
-                "conversions_disk": "public",
-                "size": 1217012,
-                "manipulations": [],
-                "custom_properties": [],
-                "generated_conversions": [],
-                "responsive_images": [],
-                "order_column": 1,
-                "created_at": "2026-11-02T16:34:57.000000Z",
-                "updated_at": "2026-11-02T16:34:57.000000Z",
-                "original_url": "http:\/\/localhost:8000\/storage\/59\/portada_drive_1793637297.png",
-                "preview_url": ""
-            }
-        ]
+        "ev_enlace_url": "https://drive.google.com/file/d/1RbtEvQdQJns1wAnlAqeRp49MnFCxlucg/view"
     },
     {
         "id": 21,
-        "ev_titulo": "Varianza N° 17 Noviembre 2020",
         "ev_numero": "17",
         "ev_volumen": null,
         "ev_anio": 2020,
         "ev_mes": "Noviembre",
+        "ev_titulo": "Varianza N° 17 Noviembre 2020",
         "ev_slug": "varianza-n-17-noviembre-2020",
         "ev_issn_ver_impresa": null,
         "ev_issn_ver_electronica": null,
@@ -1687,14 +1136,14 @@
                     "id": "i6jjzbWkcy",
                     "type": "paragraph",
                     "data": {
-                        "text": "<b>Dr(c) Ramiro Coa Clemente<\/b>"
+                        "text": "<b>Dr(c) Ramiro Coa Clemente</b>"
                     }
                 },
                 {
                     "id": "Ich59SZ3cf",
                     "type": "paragraph",
                     "data": {
-                        "text": "<b>DIRECTOR a.i.INSTITUTO DE ESTADISTICA TEÓRICA Y APLICADA<\/b>"
+                        "text": "<b>DIRECTOR a.i.INSTITUTO DE ESTADISTICA TEÓRICA Y APLICADA</b>"
                     }
                 }
             ],
@@ -1703,44 +1152,15 @@
         "ev_editorial": "Instituto de Estadística Teórica y Aplicada (IETA) - UMSA",
         "ev_fecha_publicacion": null,
         "ev_estado": true,
-        "created_at": "2026-11-02T16:37:47.000000Z",
-        "updated_at": "2026-11-02T16:37:47.000000Z",
-        "ev_enlace_url": "https:\/\/drive.google.com\/file\/d\/1w9Q-Xv2IGuObqUrlxyDwR2956m0jrBIX\/view",
-        "portada_url": "\/storage\/60\/portada_drive_1793637469.png",
-        "archivo_url": null,
-        "enlace_url": "https:\/\/drive.google.com\/file\/d\/1w9Q-Xv2IGuObqUrlxyDwR2956m0jrBIX\/view",
-        "media": [
-            {
-                "id": 60,
-                "model_type": "App\\Models\\EdicionVarianza",
-                "model_id": 21,
-                "uuid": "04dfdb5b-4a1c-4564-9632-a88422a32825",
-                "collection_name": "ev_portada",
-                "name": "gdrive_cover_2573073e-4010-433d-996e-0b55b8282e53",
-                "file_name": "portada_drive_1793637469.png",
-                "mime_type": "image\/png",
-                "disk": "public",
-                "conversions_disk": "public",
-                "size": 955993,
-                "manipulations": [],
-                "custom_properties": [],
-                "generated_conversions": [],
-                "responsive_images": [],
-                "order_column": 1,
-                "created_at": "2026-11-02T16:37:49.000000Z",
-                "updated_at": "2026-11-02T16:37:49.000000Z",
-                "original_url": "http:\/\/localhost:8000\/storage\/60\/portada_drive_1793637469.png",
-                "preview_url": ""
-            }
-        ]
+        "ev_enlace_url": "https://drive.google.com/file/d/1w9Q-Xv2IGuObqUrlxyDwR2956m0jrBIX/view"
     },
     {
         "id": 22,
-        "ev_titulo": "Varianza N° 18, Noviembre 2021",
         "ev_numero": "18",
         "ev_volumen": null,
         "ev_anio": 2021,
         "ev_mes": "Noviembre",
+        "ev_titulo": "Varianza N° 18, Noviembre 2021",
         "ev_slug": "varianza-n-18-noviembre-2021",
         "ev_issn_ver_impresa": "2789-3510",
         "ev_issn_ver_electronica": "2789-3529",
@@ -1806,44 +1226,15 @@
         "ev_editorial": "Instituto de Estadística Teórica y Aplicada (IETA) - UMSA",
         "ev_fecha_publicacion": null,
         "ev_estado": true,
-        "created_at": "2026-11-02T16:40:17.000000Z",
-        "updated_at": "2026-11-02T16:41:39.000000Z",
-        "ev_enlace_url": "https:\/\/drive.google.com\/file\/d\/1lDzdNUQlg1A68UFVed96Fp3W1V9fCVTS\/view",
-        "portada_url": "\/storage\/61\/portada_drive_1793637619.png",
-        "archivo_url": null,
-        "enlace_url": "https:\/\/drive.google.com\/file\/d\/1lDzdNUQlg1A68UFVed96Fp3W1V9fCVTS\/view",
-        "media": [
-            {
-                "id": 61,
-                "model_type": "App\\Models\\EdicionVarianza",
-                "model_id": 22,
-                "uuid": "0c164072-dab5-460c-9c25-bf4fc41a5faf",
-                "collection_name": "ev_portada",
-                "name": "gdrive_cover_ebab5eda-d2f7-46b8-9ba6-ca6a630c894f",
-                "file_name": "portada_drive_1793637619.png",
-                "mime_type": "image\/png",
-                "disk": "public",
-                "conversions_disk": "public",
-                "size": 838904,
-                "manipulations": [],
-                "custom_properties": [],
-                "generated_conversions": [],
-                "responsive_images": [],
-                "order_column": 1,
-                "created_at": "2026-11-02T16:40:19.000000Z",
-                "updated_at": "2026-11-02T16:40:19.000000Z",
-                "original_url": "http:\/\/localhost:8000\/storage\/61\/portada_drive_1793637619.png",
-                "preview_url": ""
-            }
-        ]
+        "ev_enlace_url": "https://drive.google.com/file/d/1lDzdNUQlg1A68UFVed96Fp3W1V9fCVTS/view"
     },
     {
         "id": 23,
-        "ev_titulo": "Varianza N° 19, Abril 2022",
         "ev_numero": "19",
         "ev_volumen": null,
         "ev_anio": 2022,
         "ev_mes": "Abril",
+        "ev_titulo": "Varianza N° 19, Abril 2022",
         "ev_slug": "varianza-n-19-abril-2022",
         "ev_issn_ver_impresa": "2789-3510",
         "ev_issn_ver_electronica": "2789-3529",
@@ -1874,51 +1265,22 @@
         "ev_editorial": "Instituto de Estadística Teórica y Aplicada (IETA) - UMSA",
         "ev_fecha_publicacion": null,
         "ev_estado": true,
-        "created_at": "2026-11-02T16:43:18.000000Z",
-        "updated_at": "2026-11-02T16:43:18.000000Z",
-        "ev_enlace_url": "https:\/\/drive.google.com\/file\/d\/1G6i-npIGFdYgSzRd0P5JP57jIhuYtVoc\/view",
-        "portada_url": "\/storage\/62\/portada_drive_1793637801.png",
-        "archivo_url": null,
-        "enlace_url": "https:\/\/drive.google.com\/file\/d\/1G6i-npIGFdYgSzRd0P5JP57jIhuYtVoc\/view",
-        "media": [
-            {
-                "id": 62,
-                "model_type": "App\\Models\\EdicionVarianza",
-                "model_id": 23,
-                "uuid": "e748274d-6f16-4241-b401-f7bb596e4821",
-                "collection_name": "ev_portada",
-                "name": "gdrive_cover_f0e47f06-3e69-44de-99fc-28c1b748eea6",
-                "file_name": "portada_drive_1793637801.png",
-                "mime_type": "image\/png",
-                "disk": "public",
-                "conversions_disk": "public",
-                "size": 972004,
-                "manipulations": [],
-                "custom_properties": [],
-                "generated_conversions": [],
-                "responsive_images": [],
-                "order_column": 1,
-                "created_at": "2026-11-02T16:43:21.000000Z",
-                "updated_at": "2026-11-02T16:43:21.000000Z",
-                "original_url": "http:\/\/localhost:8000\/storage\/62\/portada_drive_1793637801.png",
-                "preview_url": ""
-            }
-        ]
+        "ev_enlace_url": "https://drive.google.com/file/d/1G6i-npIGFdYgSzRd0P5JP57jIhuYtVoc/view"
     },
     {
         "id": 24,
-        "ev_titulo": "Varianza N° 20, Octubre 2022",
         "ev_numero": "20",
         "ev_volumen": null,
         "ev_anio": 2022,
         "ev_mes": "Octubre",
+        "ev_titulo": "Varianza N° 20, Octubre 2022",
         "ev_slug": "varianza-n-20-octubre-2022",
         "ev_issn_ver_impresa": "2789-3510",
         "ev_issn_ver_electronica": "2789-3529",
         "ev_num_art_originales": 7,
         "ev_notas_cientificas": null,
         "ev_num_paginas": 73,
-        "ev_doi": "https:\/\/doi.org\/10.53287\/pklv4371tr28c",
+        "ev_doi": "https://doi.org/10.53287/pklv4371tr28c",
         "ev_presentacion": {
             "time": "1793637926282",
             "blocks": [
@@ -1933,14 +1295,14 @@
                     "id": "QmuYFAl9xu",
                     "type": "paragraph",
                     "data": {
-                        "text": "<b>Dr (c) Ramiro Coa Clemente<\/b>"
+                        "text": "<b>Dr (c) Ramiro Coa Clemente</b>"
                     }
                 },
                 {
                     "id": "3GgV68FH3m",
                     "type": "paragraph",
                     "data": {
-                        "text": "<b>DIRECTOR INSTITUTO DE ESTADÍSTICA TEÓRICA Y APLICADA<\/b>"
+                        "text": "<b>DIRECTOR INSTITUTO DE ESTADÍSTICA TEÓRICA Y APLICADA</b>"
                     }
                 }
             ],
@@ -1949,51 +1311,22 @@
         "ev_editorial": "Instituto de Estadística Teórica y Aplicada (IETA) - UMSA",
         "ev_fecha_publicacion": null,
         "ev_estado": true,
-        "created_at": "2026-11-02T16:45:33.000000Z",
-        "updated_at": "2026-11-02T16:45:33.000000Z",
-        "ev_enlace_url": "https:\/\/drive.google.com\/file\/d\/1Bw2oPRHInoiYtj2524ygRuAr630mV0te\/view",
-        "portada_url": "\/storage\/63\/portada_drive_1793637935.png",
-        "archivo_url": null,
-        "enlace_url": "https:\/\/drive.google.com\/file\/d\/1Bw2oPRHInoiYtj2524ygRuAr630mV0te\/view",
-        "media": [
-            {
-                "id": 63,
-                "model_type": "App\\Models\\EdicionVarianza",
-                "model_id": 24,
-                "uuid": "b13e98cb-ad0a-48b6-ab50-669e7b64ea7e",
-                "collection_name": "ev_portada",
-                "name": "gdrive_cover_a56a0424-a74e-4810-af26-00e33be92e05",
-                "file_name": "portada_drive_1793637935.png",
-                "mime_type": "image\/png",
-                "disk": "public",
-                "conversions_disk": "public",
-                "size": 774522,
-                "manipulations": [],
-                "custom_properties": [],
-                "generated_conversions": [],
-                "responsive_images": [],
-                "order_column": 1,
-                "created_at": "2026-11-02T16:45:35.000000Z",
-                "updated_at": "2026-11-02T16:45:35.000000Z",
-                "original_url": "http:\/\/localhost:8000\/storage\/63\/portada_drive_1793637935.png",
-                "preview_url": ""
-            }
-        ]
+        "ev_enlace_url": "https://drive.google.com/file/d/1Bw2oPRHInoiYtj2524ygRuAr630mV0te/view"
     },
     {
         "id": 25,
-        "ev_titulo": "Varianza N° 21, Abril 2023",
         "ev_numero": "21",
         "ev_volumen": null,
         "ev_anio": 2023,
         "ev_mes": "Abril",
+        "ev_titulo": "Varianza N° 21, Abril 2023",
         "ev_slug": "varianza-n-21-abril-2023",
         "ev_issn_ver_impresa": "2789-3510",
         "ev_issn_ver_electronica": "2789-3529",
         "ev_num_art_originales": 3,
         "ev_notas_cientificas": 1,
         "ev_num_paginas": 63,
-        "ev_doi": "https:\/\/doi.org\/10.53287\/ygaa4750ba26d",
+        "ev_doi": "https://doi.org/10.53287/ygaa4750ba26d",
         "ev_presentacion": {
             "time": "1793638067796",
             "blocks": [
@@ -2001,21 +1334,21 @@
                     "id": "fUmGb3HJzI",
                     "type": "paragraph",
                     "data": {
-                        "text": "La Dirección del Instituto de Estadística Teórica y Aplicada (IETA), nuevamente tiene el agrado de presentar a la comunidad universitaria, a los profesionales y a la población en general la Edición No 21 de la Revista Varianza.Deseamos expresar que continuamos con nuestro ahínco por cumplir con los requisitos exigidos para indexar nuestra Revista Varianza en la colección de revistas científicas SciELO Bolivia. Debemos y estamos cumpliendo con la publicación semestral de forma continua. Asimismo, deseamos informar que a partir de la presente edición, la Revista Varianza también es difundida a través del Sistema de Código Abierto (OJS, por sus siglas en inglés), un sistema apropiado para la gestión y publicación de revistas científicas en linea y que es usada por varias unidades de investigación de la Universidad Mayor de San Andrés. Puede acceder a esta página web a través de la dirección <a href=\"https:\/\/ojs.umsa.bo\/ojs\/index.php\/revistavarianza\" target=\"_blank\">https:\/\/ojs.umsa.bo\/ojs\/index.php\/revistavarianza<\/a>.Por último, nuevamente deseamos manifestar nuestro agradecimiento al grupo de profesionales que conforman el Comité Científico de la Revista Varianza por su preciada colaboración en la revisión y evaluación de los artículos científicos difundidos en la presente edición. Como también, nuestro agradecimiento a los autores de los artículos por publicar su trabajo científico en nuestra Revista."
+                        "text": "La Dirección del Instituto de Estadística Teórica y Aplicada (IETA), nuevamente tiene el agrado de presentar a la comunidad universitaria, a los profesionales y a la población en general la Edición No 21 de la Revista Varianza.Deseamos expresar que continuamos con nuestro ahínco por cumplir con los requisitos exigidos para indexar nuestra Revista Varianza en la colección de revistas científicas SciELO Bolivia. Debemos y estamos cumpliendo con la publicación semestral de forma continua. Asimismo, deseamos informar que a partir de la presente edición, la Revista Varianza también es difundida a través del Sistema de Código Abierto (OJS, por sus siglas en inglés), un sistema apropiado para la gestión y publicación de revistas científicas en linea y que es usada por varias unidades de investigación de la Universidad Mayor de San Andrés. Puede acceder a esta página web a través de la dirección <a href=\"https://ojs.umsa.bo/ojs/index.php/revistavarianza\" target=\"_blank\">https://ojs.umsa.bo/ojs/index.php/revistavarianza</a>.Por último, nuevamente deseamos manifestar nuestro agradecimiento al grupo de profesionales que conforman el Comité Científico de la Revista Varianza por su preciada colaboración en la revisión y evaluación de los artículos científicos difundidos en la presente edición. Como también, nuestro agradecimiento a los autores de los artículos por publicar su trabajo científico en nuestra Revista."
                     }
                 },
                 {
                     "id": "BprnObj77k",
                     "type": "paragraph",
                     "data": {
-                        "text": "<b>Dr (c) Ramiro Coa Clemente<\/b>"
+                        "text": "<b>Dr (c) Ramiro Coa Clemente</b>"
                     }
                 },
                 {
                     "id": "mk8BmQ8PSh",
                     "type": "paragraph",
                     "data": {
-                        "text": "<b>DIRECTOR INSTITUTO DE ESTADÍSTICA TEÓRICA Y APLICADA<\/b>"
+                        "text": "<b>DIRECTOR INSTITUTO DE ESTADÍSTICA TEÓRICA Y APLICADA</b>"
                     }
                 }
             ],
@@ -2024,35 +1357,186 @@
         "ev_editorial": "Instituto de Estadística Teórica y Aplicada (IETA) - UMSA",
         "ev_fecha_publicacion": null,
         "ev_estado": true,
-        "created_at": "2026-11-02T16:48:16.000000Z",
-        "updated_at": "2026-11-02T16:48:35.000000Z",
-        "ev_enlace_url": "https:\/\/drive.google.com\/file\/d\/1UEX36iomry4_0NDEBYmS3vg2rHI5C0ei\/view",
-        "portada_url": "\/storage\/64\/portada_drive_1793638098.png",
-        "archivo_url": null,
-        "enlace_url": "https:\/\/drive.google.com\/file\/d\/1UEX36iomry4_0NDEBYmS3vg2rHI5C0ei\/view",
-        "media": [
-            {
-                "id": 64,
-                "model_type": "App\\Models\\EdicionVarianza",
-                "model_id": 25,
-                "uuid": "8c5f5d4f-ace6-406e-b768-077e50ff6049",
-                "collection_name": "ev_portada",
-                "name": "gdrive_cover_80afdf9a-e65e-469c-a4b2-edb0dc3c49dd",
-                "file_name": "portada_drive_1793638098.png",
-                "mime_type": "image\/png",
-                "disk": "public",
-                "conversions_disk": "public",
-                "size": 968298,
-                "manipulations": [],
-                "custom_properties": [],
-                "generated_conversions": [],
-                "responsive_images": [],
-                "order_column": 1,
-                "created_at": "2026-11-02T16:48:18.000000Z",
-                "updated_at": "2026-11-02T16:48:18.000000Z",
-                "original_url": "http:\/\/localhost:8000\/storage\/64\/portada_drive_1793638098.png",
-                "preview_url": ""
-            }
-        ]
+        "ev_enlace_url": "https://drive.google.com/file/d/1UEX36iomry4_0NDEBYmS3vg2rHI5C0ei/view"
+    },
+    {
+        "id": 26,
+        "ev_numero": "25",
+        "ev_volumen": "25",
+        "ev_anio": 2025,
+        "ev_mes": "Abril",
+        "ev_titulo": "Varianza N° 25, Abril 2025",
+        "ev_slug": "varianza-n-25-abril-2025",
+        "ev_issn_ver_impresa": "2789-3510",
+        "ev_issn_ver_electronica": "2789-3529",
+        "ev_num_art_originales": 2,
+        "ev_notas_cientificas": 0,
+        "ev_num_paginas": 49,
+        "ev_doi": null,
+        "ev_presentacion": {
+            "time": "1795875989000",
+            "blocks": [
+                {
+                    "id": "ed_blk_1_9a04f9",
+                    "type": "paragraph",
+                    "data": {
+                        "text": "Cumpliendo con la difusión semestral de nuestra Revista Científica Varianza, el Instituto de Estadística Teórica y Aplicada (IETA), dependiente de la Carrera de Estadística de la Universidad Mayor de San Andrés, tiene el agrado de publicar la edición N° 25 de la Revista."
+                    }
+                },
+                {
+                    "id": "ed_blk_2_35ad29",
+                    "type": "paragraph",
+                    "data": {
+                        "text": "En esta oportunidad se presentan dos artículos originales ordenados alfabéticamente. El primero trata de la estimación “correcta” del nivel de fecundidad mediante métodos directo e indirecto ajustados por regresión penalizada. El segundo artículo proporciona pronósticos de la producción de estaño en Bolivia basados en un modelo SARIMA de series de tiempo."
+                    }
+                },
+                {
+                    "id": "ed_blk_3_49d40e",
+                    "type": "paragraph",
+                    "data": {
+                        "text": "Agradecemos de sobremanera a los profesionales internacionales que revisaron los artículos publicados en esta nueva edición de la Revista. Invitamos a visitar la página de la Revista Varianza en: <a href=\"https://ojs.umsa.bo/ojs/index.php/revistavarianza\" target=\"_blank\">https://ojs.umsa.bo/ojs/index.php/revistavarianza</a>."
+                    }
+                },
+                {
+                    "id": "ed_blk_4_eb2610",
+                    "type": "paragraph",
+                    "data": {
+                        "text": "<b>Dr(c) Ramiro Coa Clemente</b>"
+                    }
+                },
+                {
+                    "id": "ed_blk_5_8efd95",
+                    "type": "paragraph",
+                    "data": {
+                        "text": "<b>DIRECTOR INSTITUTO DE ESTADÍSTICA TEÓRICA Y APLICADA</b>"
+                    }
+                }
+            ],
+            "version": "2.31.7"
+        },
+        "ev_editorial": "Instituto de Estadística Teórica y Aplicada (IETA) - UMSA",
+        "ev_fecha_publicacion": "2025-04-01",
+        "ev_estado": true,
+        "ev_enlace_url": null
+    },
+    {
+        "id": 27,
+        "ev_numero": "26",
+        "ev_volumen": "26",
+        "ev_anio": 2025,
+        "ev_mes": "Octubre",
+        "ev_titulo": "Varianza N° 26, Octubre 2025",
+        "ev_slug": "varianza-n-26-octubre-2025",
+        "ev_issn_ver_impresa": "2789-3510",
+        "ev_issn_ver_electronica": "2789-3529",
+        "ev_num_art_originales": 4,
+        "ev_notas_cientificas": 0,
+        "ev_num_paginas": 67,
+        "ev_doi": null,
+        "ev_presentacion": {
+            "time": "1795875989000",
+            "blocks": [
+                {
+                    "id": "ed_blk_1_6f46c4",
+                    "type": "paragraph",
+                    "data": {
+                        "text": "El Instituto de Estadística Teórica y Aplicada de la Carrera de Estadística, de la Facultad de Ciencias Puras y Naturales de la Universidad Mayor de San Andrés, se complace en presentar a la comunidad en general y al ámbito académico-científico en particular, la edición N° 26 de su revista científica \"Varianza\"."
+                    }
+                },
+                {
+                    "id": "ed_blk_2_0df54c",
+                    "type": "paragraph",
+                    "data": {
+                        "text": "Esta edición reafirma nuestro compromiso con la divulgación del conocimiento estadístico mediante cuatro artículos originales que abordan problemáticas de relevancia actual con solvencia metodológica. Cabe resaltar que, en un significativo avance hacia la equidad de género, tres de los cuatro trabajos son autoría de mujeres que contribuyen al enriquecimiento de la ciencia estadística."
+                    }
+                },
+                {
+                    "id": "ed_blk_3_cd5c15",
+                    "type": "paragraph",
+                    "data": {
+                        "text": "El reconocimiento a las y los autores de los artículos por el esfuerzo y dedicación a la investigación, así como al Comité de revisores nacionales e internacionales."
+                    }
+                },
+                {
+                    "id": "ed_blk_4_c02796",
+                    "type": "paragraph",
+                    "data": {
+                        "text": "<b>Lic. Esp. Raúl León Delgado Álvarez</b>"
+                    }
+                },
+                {
+                    "id": "ed_blk_5_7c1fdd",
+                    "type": "paragraph",
+                    "data": {
+                        "text": "<b>DIRECTOR a.i. INSTITUTO DE ESTADÍSTICA TEÓRICA Y APLICADA</b>"
+                    }
+                }
+            ],
+            "version": "2.31.7"
+        },
+        "ev_editorial": "Instituto de Estadística Teórica y Aplicada (IETA) - UMSA",
+        "ev_fecha_publicacion": "2025-10-01",
+        "ev_estado": true,
+        "ev_enlace_url": null
+    },
+    {
+        "id": 28,
+        "ev_numero": "27",
+        "ev_volumen": "27",
+        "ev_anio": 2026,
+        "ev_mes": "Mayo",
+        "ev_titulo": "Varianza N° 27, Mayo 2026",
+        "ev_slug": "varianza-n-27-mayo-2026",
+        "ev_issn_ver_impresa": "2789-3510",
+        "ev_issn_ver_electronica": "2789-3529",
+        "ev_num_art_originales": 6,
+        "ev_notas_cientificas": 0,
+        "ev_num_paginas": 132,
+        "ev_doi": null,
+        "ev_presentacion": {
+            "time": "1795875989000",
+            "blocks": [
+                {
+                    "id": "ed_blk_1_e34997",
+                    "type": "paragraph",
+                    "data": {
+                        "text": "La Revista Varianza es la publicación oficial de la Carrera de Estadística de la Universidad Mayor de San Andrés (UMSA), orientada a difundir conocimiento científico, metodológico y aplicado en el campo de la estadística y sus aplicaciones interdisciplinarias. Varianza se distingue por su enfoque multidisciplinario, integrando investigaciones teóricas, estudios aplicados y experiencias profesionales que contribuyen al desarrollo de competencias estadísticas avanzadas y a la solución de problemas en sectores sociales, educativos, económicos y científicos."
+                    }
+                },
+                {
+                    "id": "ed_blk_2_ab55a4",
+                    "type": "paragraph",
+                    "data": {
+                        "text": "Entre sus objetivos se destacan fomentar la producción científica de estudiantes y docentes de la carrera de estadística, promover la divulgación de métodos estadísticos modernos, contribuir a la formación de profesionales críticos, analíticos y éticamente responsables, y servir como plataforma para el intercambio de proyectos interdisciplinarios."
+                    }
+                },
+                {
+                    "id": "ed_blk_3_a9993e",
+                    "type": "paragraph",
+                    "data": {
+                        "text": "El reconocimiento a las y los autores de los artículos por el esfuerzo y dedicación a la investigación. Invitamos a visitar la página de la revista Varianza en: <a href=\"https://ojs.umsa.bo/ojs/index.php/revistavarianza\" target=\"_blank\">https://ojs.umsa.bo/ojs/index.php/revistavarianza</a>."
+                    }
+                },
+                {
+                    "id": "ed_blk_4_e3f17d",
+                    "type": "paragraph",
+                    "data": {
+                        "text": "<b>M.Sc. Fernando Rivero Suguiura</b>"
+                    }
+                },
+                {
+                    "id": "ed_blk_5_7c1fdd",
+                    "type": "paragraph",
+                    "data": {
+                        "text": "<b>DIRECTOR a.i. INSTITUTO DE ESTADÍSTICA TEÓRICA Y APLICADA</b>"
+                    }
+                }
+            ],
+            "version": "2.31.7"
+        },
+        "ev_editorial": "Instituto de Estadística Teórica y Aplicada (IETA) - UMSA",
+        "ev_fecha_publicacion": "2026-05-01",
+        "ev_estado": true,
+        "ev_enlace_url": null
     }
 ]
