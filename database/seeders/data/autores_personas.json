@@ -8,7 +8,7 @@
             "p_apellido_materno": "Quisbert",
             "p_correo": "nchavez@umsa.bo",
             "p_telefono": null,
-            "p_ci": null
+            "p_sitio_web": null
         },
         "tipo_autor_id": 5,
         "grado_academico_id": 2,
@@ -26,7 +26,7 @@
             ],
             "version": "2.31.7"
         },
-        "at_orcid": null,
+        "at_intereses_cientificos": null,
         "at_estado": true,
         "especialidades_ids": [
             4,
@@ -43,7 +43,7 @@
             "p_apellido_materno": "Choque",
             "p_correo": "melisa.abalos@gmail.com",
             "p_telefono": null,
-            "p_ci": null
+            "p_sitio_web": null
         },
         "tipo_autor_id": 2,
         "grado_academico_id": 1,
@@ -61,7 +61,7 @@
             ],
             "version": "2.31.7"
         },
-        "at_orcid": null,
+        "at_intereses_cientificos": null,
         "at_estado": true,
         "especialidades_ids": [
             6,
@@ -77,7 +77,7 @@
             "p_apellido_materno": "Casceres",
             "p_correo": "iyaliaga@umsa.bo",
             "p_telefono": null,
-            "p_ci": null
+            "p_sitio_web": null
         },
         "tipo_autor_id": 6,
         "grado_academico_id": 1,
@@ -94,7 +94,7 @@
             ],
             "version": "2.29.0"
         },
-        "at_orcid": null,
+        "at_intereses_cientificos": null,
         "at_estado": true,
         "especialidades_ids": [
             12
@@ -109,7 +109,7 @@
             "p_apellido_materno": "Angulo",
             "p_correo": "jose-anibalangulo@ieta.umsa.bo",
             "p_telefono": null,
-            "p_ci": null
+            "p_sitio_web": null
         },
         "tipo_autor_id": 6,
         "grado_academico_id": 1,
@@ -126,7 +126,7 @@
             ],
             "version": "2.29.0"
         },
-        "at_orcid": null,
+        "at_intereses_cientificos": null,
         "at_estado": true,
         "especialidades_ids": [
             13
@@ -141,7 +141,7 @@
             "p_apellido_materno": "Ojeda",
             "p_correo": "davidbarrera@ieta.umsa.bo",
             "p_telefono": null,
-            "p_ci": null
+            "p_sitio_web": null
         },
         "tipo_autor_id": 6,
         "grado_academico_id": 1,
@@ -158,7 +158,7 @@
             ],
             "version": "2.29.0"
         },
-        "at_orcid": null,
+        "at_intereses_cientificos": null,
         "at_estado": true,
         "especialidades_ids": [
             14
@@ -173,7 +173,7 @@
             "p_apellido_materno": "Coloma",
             "p_correo": "victor-rubenbelmonte@ieta.umsa.bo",
             "p_telefono": null,
-            "p_ci": null
+            "p_sitio_web": null
         },
         "tipo_autor_id": 6,
         "grado_academico_id": 1,
@@ -190,7 +190,7 @@
             ],
             "version": "2.29.0"
         },
-        "at_orcid": null,
+        "at_intereses_cientificos": null,
         "at_estado": true,
         "especialidades_ids": [
             1
@@ -205,7 +205,7 @@
             "p_apellido_materno": "Manzur",
             "p_correo": "lcastillo@asfi.gob.bo",
             "p_telefono": null,
-            "p_ci": null
+            "p_sitio_web": null
         },
         "tipo_autor_id": 6,
         "grado_academico_id": 1,
@@ -222,7 +222,7 @@
             ],
             "version": "2.29.0"
         },
-        "at_orcid": null,
+        "at_intereses_cientificos": null,
         "at_estado": true,
         "especialidades_ids": [
             15
@@ -237,7 +237,7 @@
             "p_apellido_materno": "Gutiérrez",
             "p_correo": "achirino@aru.org.bo",
             "p_telefono": null,
-            "p_ci": null
+            "p_sitio_web": null
         },
         "tipo_autor_id": 6,
         "grado_academico_id": 1,
@@ -254,7 +254,7 @@
             ],
             "version": "2.29.0"
         },
-        "at_orcid": null,
+        "at_intereses_cientificos": null,
         "at_estado": true,
         "especialidades_ids": [
             16
@@ -269,7 +269,7 @@
             "p_apellido_materno": "Poca",
             "p_correo": "omar.chocotea@umag.cl",
             "p_telefono": null,
-            "p_ci": null
+            "p_sitio_web": null
         },
         "tipo_autor_id": 6,
         "grado_academico_id": 1,
@@ -286,7 +286,7 @@
             ],
             "version": "2.29.0"
         },
-        "at_orcid": null,
+        "at_intereses_cientificos": null,
         "at_estado": true,
         "especialidades_ids": [
             1
@@ -301,7 +301,7 @@
             "p_apellido_materno": "López",
             "p_correo": "jaimechumacero@ieta.umsa.bo",
             "p_telefono": null,
-            "p_ci": null
+            "p_sitio_web": null
         },
         "tipo_autor_id": 6,
         "grado_academico_id": 1,
@@ -318,7 +318,7 @@
             ],
             "version": "2.29.0"
         },
-        "at_orcid": null,
+        "at_intereses_cientificos": null,
         "at_estado": true,
         "especialidades_ids": [
             1
@@ -333,7 +333,7 @@
             "p_apellido_materno": "Clemente",
             "p_correo": "clementecoa@gmail.com",
             "p_telefono": null,
-            "p_ci": null
+            "p_sitio_web": null
         },
         "tipo_autor_id": 6,
         "grado_academico_id": 1,
@@ -350,7 +350,7 @@
             ],
             "version": "2.29.0"
         },
-        "at_orcid": null,
+        "at_intereses_cientificos": null,
         "at_estado": true,
         "especialidades_ids": [
             17
@@ -365,7 +365,7 @@
             "p_apellido_materno": "Huanca",
             "p_correo": "ronal.c.huanca@gmail.com",
             "p_telefono": null,
-            "p_ci": null
+            "p_sitio_web": null
         },
         "tipo_autor_id": 6,
         "grado_academico_id": 1,
@@ -373,7 +373,7 @@
         "at_biografia": {
             "blocks": []
         },
-        "at_orcid": null,
+        "at_intereses_cientificos": null,
         "at_estado": true,
         "especialidades_ids": [
             18
@@ -388,7 +388,7 @@
             "p_apellido_materno": "Chuquimia",
             "p_correo": "mercy_0074@hotmail.com",
             "p_telefono": null,
-            "p_ci": null
+            "p_sitio_web": null
         },
         "tipo_autor_id": 6,
         "grado_academico_id": 1,
@@ -396,7 +396,7 @@
         "at_biografia": {
             "blocks": []
         },
-        "at_orcid": null,
+        "at_intereses_cientificos": null,
         "at_estado": true,
         "especialidades_ids": [
             19
@@ -411,7 +411,7 @@
             "p_apellido_materno": "Ajno",
             "p_correo": "lcuarita@fcpn.edu.bo",
             "p_telefono": null,
-            "p_ci": null
+            "p_sitio_web": null
         },
         "tipo_autor_id": 6,
         "grado_academico_id": 1,
@@ -428,7 +428,7 @@
             ],
             "version": "2.29.0"
         },
-        "at_orcid": null,
+        "at_intereses_cientificos": null,
         "at_estado": true,
         "especialidades_ids": [
             20
@@ -443,7 +443,7 @@
             "p_apellido_materno": "Ramallo",
             "p_correo": "vcramallo12@gmail.com",
             "p_telefono": null,
-            "p_ci": null
+            "p_sitio_web": null
         },
         "tipo_autor_id": 6,
         "grado_academico_id": 1,
@@ -460,7 +460,7 @@
             ],
             "version": "2.29.0"
         },
-        "at_orcid": null,
+        "at_intereses_cientificos": null,
         "at_estado": true,
         "especialidades_ids": [
             21
@@ -475,7 +475,7 @@
             "p_apellido_materno": "Álvarez",
             "p_correo": "dea_5@hotmail.com",
             "p_telefono": null,
-            "p_ci": null
+            "p_sitio_web": null
         },
         "tipo_autor_id": 6,
         "grado_academico_id": 1,
@@ -492,7 +492,7 @@
             ],
             "version": "2.29.0"
         },
-        "at_orcid": null,
+        "at_intereses_cientificos": null,
         "at_estado": true,
         "especialidades_ids": [
             22
@@ -507,7 +507,7 @@
             "p_apellido_materno": "Blackman",
             "p_correo": "ricardo.douglas@up.ac.pa",
             "p_telefono": null,
-            "p_ci": null
+            "p_sitio_web": null
         },
         "tipo_autor_id": 6,
         "grado_academico_id": 1,
@@ -524,7 +524,7 @@
             ],
             "version": "2.29.0"
         },
-        "at_orcid": null,
+        "at_intereses_cientificos": null,
         "at_estado": true,
         "especialidades_ids": [
             1
@@ -539,7 +539,7 @@
             "p_apellido_materno": "Aguilar",
             "p_correo": "floresaguilarjose@gmail.com",
             "p_telefono": null,
-            "p_ci": null
+            "p_sitio_web": null
         },
         "tipo_autor_id": 6,
         "grado_academico_id": 1,
@@ -556,7 +556,7 @@
             ],
             "version": "2.29.0"
         },
-        "at_orcid": null,
+        "at_intereses_cientificos": null,
         "at_estado": true,
         "especialidades_ids": [
             23
@@ -571,7 +571,7 @@
             "p_apellido_materno": "López",
             "p_correo": "caarloslopez1@gmail.com",
             "p_telefono": null,
-            "p_ci": null
+            "p_sitio_web": null
         },
         "tipo_autor_id": 6,
         "grado_academico_id": 1,
@@ -588,7 +588,7 @@
             ],
             "version": "2.29.0"
         },
-        "at_orcid": null,
+        "at_intereses_cientificos": null,
         "at_estado": true,
         "especialidades_ids": [
             1
@@ -603,7 +603,7 @@
             "p_apellido_materno": "Salinas",
             "p_correo": "nilda-gloriaflores@ieta.umsa.bo",
             "p_telefono": null,
-            "p_ci": null
+            "p_sitio_web": null
         },
         "tipo_autor_id": 6,
         "grado_academico_id": 1,
@@ -620,7 +620,7 @@
             ],
             "version": "2.29.0"
         },
-        "at_orcid": null,
+        "at_intereses_cientificos": null,
         "at_estado": true,
         "especialidades_ids": [
             4
@@ -635,7 +635,7 @@
             "p_apellido_materno": "Díaz",
             "p_correo": "jgodino@ugr.es",
             "p_telefono": null,
-            "p_ci": null
+            "p_sitio_web": null
         },
         "tipo_autor_id": 6,
         "grado_academico_id": 1,
@@ -652,7 +652,7 @@
             ],
             "version": "2.29.0"
         },
-        "at_orcid": null,
+        "at_intereses_cientificos": null,
         "at_estado": true,
         "especialidades_ids": [
             1
@@ -667,7 +667,7 @@
             "p_apellido_materno": "Delgado",
             "p_correo": "charly.guzman18@gmail.com",
             "p_telefono": null,
-            "p_ci": null
+            "p_sitio_web": null
         },
         "tipo_autor_id": 6,
         "grado_academico_id": 1,
@@ -675,7 +675,7 @@
         "at_biografia": {
             "blocks": []
         },
-        "at_orcid": null,
+        "at_intereses_cientificos": null,
         "at_estado": true,
         "especialidades_ids": [
             1
@@ -690,7 +690,7 @@
             "p_apellido_materno": "Brinchmann",
             "p_correo": "kjetilhalvorsen@ieta.umsa.bo",
             "p_telefono": null,
-            "p_ci": null
+            "p_sitio_web": null
         },
         "tipo_autor_id": 6,
         "grado_academico_id": 1,
@@ -707,7 +707,7 @@
             ],
             "version": "2.29.0"
         },
-        "at_orcid": null,
+        "at_intereses_cientificos": null,
         "at_estado": true,
         "especialidades_ids": [
             1
@@ -722,7 +722,7 @@
             "p_apellido_materno": "Flores",
             "p_correo": "jaimeinca@ieta.umsa.bo",
             "p_telefono": null,
-            "p_ci": null
+            "p_sitio_web": null
         },
         "tipo_autor_id": 6,
         "grado_academico_id": 1,
@@ -739,7 +739,7 @@
             ],
             "version": "2.29.0"
         },
-        "at_orcid": null,
+        "at_intereses_cientificos": null,
         "at_estado": true,
         "especialidades_ids": [
             1
@@ -754,7 +754,7 @@
             "p_apellido_materno": "Careaga",
             "p_correo": "gilka.jimenez@gmail.com",
             "p_telefono": null,
-            "p_ci": null
+            "p_sitio_web": null
         },
         "tipo_autor_id": 6,
         "grado_academico_id": 1,
@@ -771,7 +771,7 @@
             ],
             "version": "2.29.0"
         },
-        "at_orcid": null,
+        "at_intereses_cientificos": null,
         "at_estado": true,
         "especialidades_ids": [
             1
@@ -786,7 +786,7 @@
             "p_apellido_materno": "Cruz",
             "p_correo": "lcruzpatricia@gmail.com",
             "p_telefono": null,
-            "p_ci": null
+            "p_sitio_web": null
         },
         "tipo_autor_id": 6,
         "grado_academico_id": 1,
@@ -794,7 +794,7 @@
         "at_biografia": {
             "blocks": []
         },
-        "at_orcid": null,
+        "at_intereses_cientificos": null,
         "at_estado": true,
         "especialidades_ids": [
             1
@@ -809,7 +809,7 @@
             "p_apellido_materno": "Flores",
             "p_correo": "emmartha3@gmail.com",
             "p_telefono": null,
-            "p_ci": null
+            "p_sitio_web": null
         },
         "tipo_autor_id": 6,
         "grado_academico_id": 1,
@@ -826,7 +826,7 @@
             ],
             "version": "2.29.0"
         },
-        "at_orcid": null,
+        "at_intereses_cientificos": null,
         "at_estado": true,
         "especialidades_ids": [
             1
@@ -841,7 +841,7 @@
             "p_apellido_materno": null,
             "p_correo": "luis.martinezm@up.ac.pa",
             "p_telefono": null,
-            "p_ci": null
+            "p_sitio_web": null
         },
         "tipo_autor_id": 6,
         "grado_academico_id": 1,
@@ -858,7 +858,7 @@
             ],
             "version": "2.29.0"
         },
-        "at_orcid": null,
+        "at_intereses_cientificos": null,
         "at_estado": true,
         "especialidades_ids": [
             1
@@ -873,7 +873,7 @@
             "p_apellido_materno": "Gonzales",
             "p_correo": "yymiranda@gmail.com",
             "p_telefono": null,
-            "p_ci": null
+            "p_sitio_web": null
         },
         "tipo_autor_id": 6,
         "grado_academico_id": 1,
@@ -890,7 +890,7 @@
             ],
             "version": "2.29.0"
         },
-        "at_orcid": null,
+        "at_intereses_cientificos": null,
         "at_estado": true,
         "especialidades_ids": [
             1
@@ -905,7 +905,7 @@
             "p_apellido_materno": "Canaviri",
             "p_correo": "deyvisnina@ieta.umsa.bo",
             "p_telefono": null,
-            "p_ci": null
+            "p_sitio_web": null
         },
         "tipo_autor_id": 6,
         "grado_academico_id": 1,
@@ -922,7 +922,7 @@
             ],
             "version": "2.29.0"
         },
-        "at_orcid": null,
+        "at_intereses_cientificos": null,
         "at_estado": true,
         "especialidades_ids": [
             1
@@ -937,7 +937,7 @@
             "p_apellido_materno": null,
             "p_correo": "anaisabel1610@hotmail.com",
             "p_telefono": null,
-            "p_ci": null
+            "p_sitio_web": null
         },
         "tipo_autor_id": 6,
         "grado_academico_id": 1,
@@ -954,7 +954,7 @@
             ],
             "version": "2.29.0"
         },
-        "at_orcid": null,
+        "at_intereses_cientificos": null,
         "at_estado": true,
         "especialidades_ids": [
             1
@@ -969,7 +969,7 @@
             "p_apellido_materno": "Brun",
             "p_correo": "edgarosorio@ieta.umsa.bo",
             "p_telefono": null,
-            "p_ci": null
+            "p_sitio_web": null
         },
         "tipo_autor_id": 6,
         "grado_academico_id": 1,
@@ -986,7 +986,7 @@
             ],
             "version": "2.29.0"
         },
-        "at_orcid": null,
+        "at_intereses_cientificos": null,
         "at_estado": true,
         "especialidades_ids": [
             1
@@ -1001,7 +1001,7 @@
             "p_apellido_materno": "Aguilar",
             "p_correo": "moviedo440@yahoo.com",
             "p_telefono": null,
-            "p_ci": null
+            "p_sitio_web": null
         },
         "tipo_autor_id": 6,
         "grado_academico_id": 1,
@@ -1018,7 +1018,7 @@
             ],
             "version": "2.29.0"
         },
-        "at_orcid": null,
+        "at_intereses_cientificos": null,
         "at_estado": true,
         "especialidades_ids": [
             24
@@ -1033,7 +1033,7 @@
             "p_apellido_materno": "Alarcón",
             "p_correo": "marycorreo7@yahoo.es",
             "p_telefono": null,
-            "p_ci": null
+            "p_sitio_web": null
         },
         "tipo_autor_id": 6,
         "grado_academico_id": 1,
@@ -1050,7 +1050,7 @@
             ],
             "version": "2.29.0"
         },
-        "at_orcid": null,
+        "at_intereses_cientificos": null,
         "at_estado": true,
         "especialidades_ids": [
             25
@@ -1065,7 +1065,7 @@
             "p_apellido_materno": "Zamora",
             "p_correo": "pamela.pereyra@ua.es",
             "p_telefono": null,
-            "p_ci": null
+            "p_sitio_web": null
         },
         "tipo_autor_id": 6,
         "grado_academico_id": 1,
@@ -1082,7 +1082,7 @@
             ],
             "version": "2.29.0"
         },
-        "at_orcid": null,
+        "at_intereses_cientificos": null,
         "at_estado": true,
         "especialidades_ids": [
             26
@@ -1097,7 +1097,7 @@
             "p_apellido_materno": "Ajhuacho",
             "p_correo": "titojaime_pinto@yahoo.com",
             "p_telefono": null,
-            "p_ci": null
+            "p_sitio_web": null
         },
         "tipo_autor_id": 6,
         "grado_academico_id": 1,
@@ -1114,7 +1114,7 @@
             ],
             "version": "2.29.0"
         },
-        "at_orcid": null,
+        "at_intereses_cientificos": null,
         "at_estado": true,
         "especialidades_ids": [
             27
@@ -1129,7 +1129,7 @@
             "p_apellido_materno": "Butrón",
             "p_correo": "emilzealizon@gmail.com",
             "p_telefono": null,
-            "p_ci": null
+            "p_sitio_web": null
         },
         "tipo_autor_id": 6,
         "grado_academico_id": 1,
@@ -1146,7 +1146,7 @@
             ],
             "version": "2.29.0"
         },
-        "at_orcid": null,
+        "at_intereses_cientificos": null,
         "at_estado": true,
         "especialidades_ids": [
             4
@@ -1161,7 +1161,7 @@
             "p_apellido_materno": "Suguiura",
             "p_correo": "frivero@fcpn.edu.bo",
             "p_telefono": null,
-            "p_ci": null
+            "p_sitio_web": null
         },
         "tipo_autor_id": 6,
         "grado_academico_id": 1,
@@ -1178,7 +1178,7 @@
             ],
             "version": "2.29.0"
         },
-        "at_orcid": null,
+        "at_intereses_cientificos": null,
         "at_estado": true,
         "especialidades_ids": [
             27
@@ -1193,7 +1193,7 @@
             "p_apellido_materno": "Aranibar",
             "p_correo": "gustavoruiz432@hotmail.com",
             "p_telefono": null,
-            "p_ci": null
+            "p_sitio_web": null
         },
         "tipo_autor_id": 6,
         "grado_academico_id": 1,
@@ -1210,7 +1210,7 @@
             ],
             "version": "2.29.0"
         },
-        "at_orcid": null,
+        "at_intereses_cientificos": null,
         "at_estado": true,
         "especialidades_ids": [
             1
@@ -1225,7 +1225,7 @@
             "p_apellido_materno": "Aviles",
             "p_correo": "astrid.rree@gmail.com",
             "p_telefono": null,
-            "p_ci": null
+            "p_sitio_web": null
         },
         "tipo_autor_id": 6,
         "grado_academico_id": 1,
@@ -1242,7 +1242,7 @@
             ],
             "version": "2.29.0"
         },
-        "at_orcid": null,
+        "at_intereses_cientificos": null,
         "at_estado": true,
         "especialidades_ids": [
             28
@@ -1257,7 +1257,7 @@
             "p_apellido_materno": "Viamonte",
             "p_correo": "carlos-fernandosilva@ieta.umsa.bo",
             "p_telefono": null,
-            "p_ci": null
+            "p_sitio_web": null
         },
         "tipo_autor_id": 6,
         "grado_academico_id": 1,
@@ -1274,7 +1274,7 @@
             ],
             "version": "2.29.0"
         },
-        "at_orcid": null,
+        "at_intereses_cientificos": null,
         "at_estado": true,
         "especialidades_ids": [
             1
@@ -1289,7 +1289,7 @@
             "p_apellido_materno": "Sánchez",
             "p_correo": "augusto-salvadorsoliz@ieta.umsa.bo",
             "p_telefono": null,
-            "p_ci": null
+            "p_sitio_web": null
         },
         "tipo_autor_id": 6,
         "grado_academico_id": 1,
@@ -1306,7 +1306,7 @@
             ],
             "version": "2.29.0"
         },
-        "at_orcid": null,
+        "at_intereses_cientificos": null,
         "at_estado": true,
         "especialidades_ids": [
             1
@@ -1321,7 +1321,7 @@
             "p_apellido_materno": "Gómez",
             "p_correo": "dsanchez68@gmail.com",
             "p_telefono": null,
-            "p_ci": null
+            "p_sitio_web": null
         },
         "tipo_autor_id": 6,
         "grado_academico_id": 1,
@@ -1338,7 +1338,7 @@
             ],
             "version": "2.29.0"
         },
-        "at_orcid": null,
+        "at_intereses_cientificos": null,
         "at_estado": true,
         "especialidades_ids": [
             1
@@ -1353,7 +1353,7 @@
             "p_apellido_materno": "Luna",
             "p_correo": "jorge-justotroche@ieta.umsa.bo",
             "p_telefono": null,
-            "p_ci": null
+            "p_sitio_web": null
         },
         "tipo_autor_id": 6,
         "grado_academico_id": 1,
@@ -1370,7 +1370,7 @@
             ],
             "version": "2.29.0"
         },
-        "at_orcid": null,
+        "at_intereses_cientificos": null,
         "at_estado": true,
         "especialidades_ids": [
             1
@@ -1385,7 +1385,7 @@
             "p_apellido_materno": "Blanco",
             "p_correo": "dindovaldez@hotmail.com",
             "p_telefono": null,
-            "p_ci": null
+            "p_sitio_web": null
         },
         "tipo_autor_id": 6,
         "grado_academico_id": 1,
@@ -1402,7 +1402,7 @@
             ],
             "version": "2.29.0"
         },
-        "at_orcid": null,
+        "at_intereses_cientificos": null,
         "at_estado": true,
         "especialidades_ids": [
             1
@@ -1417,7 +1417,7 @@
             "p_apellido_materno": "Salazar",
             "p_correo": "cipacohc@gmail.com",
             "p_telefono": null,
-            "p_ci": null
+            "p_sitio_web": null
         },
         "tipo_autor_id": 6,
         "grado_academico_id": 1,
@@ -1425,7 +1425,7 @@
         "at_biografia": {
             "blocks": []
         },
-        "at_orcid": null,
+        "at_intereses_cientificos": null,
         "at_estado": true,
         "especialidades_ids": [
             1
@@ -1440,7 +1440,7 @@
             "p_apellido_materno": "Rodriguez",
             "p_correo": "wilmapenafiel@ieta.umsa.bo",
             "p_telefono": null,
-            "p_ci": null
+            "p_sitio_web": null
         },
         "tipo_autor_id": 3,
         "grado_academico_id": 5,
@@ -1448,7 +1448,7 @@
         "at_biografia": {
             "blocks": []
         },
-        "at_orcid": null,
+        "at_intereses_cientificos": null,
         "at_estado": true,
         "especialidades_ids": []
     },
@@ -1461,7 +1461,7 @@
             "p_apellido_materno": "Magallón",
             "p_correo": "roberto-bula-magallon@ieta.umsa.bo",
             "p_telefono": null,
-            "p_ci": null
+            "p_sitio_web": null
         },
         "tipo_autor_id": 6,
         "grado_academico_id": 1,
@@ -1469,7 +1469,7 @@
         "at_biografia": {
             "blocks": []
         },
-        "at_orcid": null,
+        "at_intereses_cientificos": null,
         "at_estado": true,
         "especialidades_ids": [
             1
@@ -1484,15 +1484,15 @@
             "p_apellido_materno": "González",
             "p_correo": "elisa-mendoza-gonzalez@ieta.umsa.bo",
             "p_telefono": null,
-            "p_ci": null
+            "p_sitio_web": null
         },
         "tipo_autor_id": 6,
         "grado_academico_id": 1,
-        "at_slug": "elisa-aymet-mendoza-gonzales",
+        "at_slug": "elisa-aymet-mendoza-gonzales-2",
         "at_biografia": {
             "blocks": []
         },
-        "at_orcid": null,
+        "at_intereses_cientificos": null,
         "at_estado": true,
         "especialidades_ids": [
             1
@@ -1507,7 +1507,7 @@
             "p_apellido_materno": "Mamani",
             "p_correo": "sherli-reyna-mamani@ieta.umsa.bo",
             "p_telefono": null,
-            "p_ci": null
+            "p_sitio_web": null
         },
         "tipo_autor_id": 6,
         "grado_academico_id": 1,
@@ -1515,7 +1515,7 @@
         "at_biografia": {
             "blocks": []
         },
-        "at_orcid": null,
+        "at_intereses_cientificos": null,
         "at_estado": true,
         "especialidades_ids": [
             1
@@ -1530,7 +1530,7 @@
             "p_apellido_materno": null,
             "p_correo": "beatriz-mamani@ieta.umsa.bo",
             "p_telefono": null,
-            "p_ci": null
+            "p_sitio_web": null
         },
         "tipo_autor_id": 6,
         "grado_academico_id": 1,
@@ -1538,7 +1538,7 @@
         "at_biografia": {
             "blocks": []
         },
-        "at_orcid": null,
+        "at_intereses_cientificos": null,
         "at_estado": true,
         "especialidades_ids": [
             1
@@ -1553,7 +1553,7 @@
             "p_apellido_materno": "Flores",
             "p_correo": "carmen-vega-flores@ieta.umsa.bo",
             "p_telefono": null,
-            "p_ci": null
+            "p_sitio_web": null
         },
         "tipo_autor_id": 6,
         "grado_academico_id": 1,
@@ -1561,7 +1561,7 @@
         "at_biografia": {
             "blocks": []
         },
-        "at_orcid": null,
+        "at_intereses_cientificos": null,
         "at_estado": true,
         "especialidades_ids": [
             1
@@ -1576,7 +1576,7 @@
             "p_apellido_materno": null,
             "p_correo": "lourdes-carrasquilla@ieta.umsa.bo",
             "p_telefono": null,
-            "p_ci": null
+            "p_sitio_web": null
         },
         "tipo_autor_id": 6,
         "grado_academico_id": 1,
@@ -1584,10 +1584,325 @@
         "at_biografia": {
             "blocks": []
         },
-        "at_orcid": null,
+        "at_intereses_cientificos": null,
         "at_estado": true,
         "especialidades_ids": [
             1
         ]
+    },
+    {
+        "id": 244,
+        "persona": {
+            "id": 252,
+            "p_nombre": "Victor Hugo",
+            "p_apellido_paterno": "Quispe",
+            "p_apellido_materno": "Bravo",
+            "p_correo": "quispebravovictorhugo@gmail.com",
+            "p_telefono": null,
+            "p_sitio_web": null
+        },
+        "tipo_autor_id": 2,
+        "grado_academico_id": 1,
+        "at_slug": "victor-hugo-quispe-bravo",
+        "at_biografia": {
+            "blocks": []
+        },
+        "at_intereses_cientificos": null,
+        "at_estado": true,
+        "especialidades_ids": []
+    },
+    {
+        "id": 245,
+        "persona": {
+            "id": 253,
+            "p_nombre": "Benito Oscar",
+            "p_apellido_paterno": "Siñani",
+            "p_apellido_materno": "Beltran",
+            "p_correo": "benitoscar.sb@gmail.com",
+            "p_telefono": null,
+            "p_sitio_web": null
+        },
+        "tipo_autor_id": 6,
+        "grado_academico_id": 1,
+        "at_slug": "benito-oscar-sinani-beltran",
+        "at_biografia": {
+            "blocks": []
+        },
+        "at_intereses_cientificos": null,
+        "at_estado": true,
+        "especialidades_ids": []
+    },
+    {
+        "id": 246,
+        "persona": {
+            "id": 254,
+            "p_nombre": "Lizeth",
+            "p_apellido_paterno": "Mendoza",
+            "p_apellido_materno": "Pinto",
+            "p_correo": "lmendoza.ps@gmail.com",
+            "p_telefono": null,
+            "p_sitio_web": null
+        },
+        "tipo_autor_id": 2,
+        "grado_academico_id": 1,
+        "at_slug": "lizeth-mendoza-pinto",
+        "at_biografia": {
+            "blocks": []
+        },
+        "at_intereses_cientificos": null,
+        "at_estado": true,
+        "especialidades_ids": []
+    },
+    {
+        "id": 247,
+        "persona": {
+            "id": 255,
+            "p_nombre": "Valentina",
+            "p_apellido_paterno": "Valdez",
+            "p_apellido_materno": "Vega",
+            "p_correo": "vvaldezv@fcpn.edu.bo",
+            "p_telefono": null,
+            "p_sitio_web": null
+        },
+        "tipo_autor_id": 6,
+        "grado_academico_id": 1,
+        "at_slug": "valentina-valdez-vega",
+        "at_biografia": {
+            "blocks": []
+        },
+        "at_intereses_cientificos": null,
+        "at_estado": true,
+        "especialidades_ids": []
+    },
+    {
+        "id": 248,
+        "persona": {
+            "id": 256,
+            "p_nombre": "Vianey Parra",
+            "p_apellido_paterno": "Aguirre",
+            "p_apellido_materno": "Cuellar",
+            "p_correo": "vianparraguirre@gmail.com",
+            "p_telefono": null,
+            "p_sitio_web": null
+        },
+        "tipo_autor_id": 2,
+        "grado_academico_id": 1,
+        "at_slug": "vianey-parra-aguirre-cuellar",
+        "at_biografia": {
+            "blocks": []
+        },
+        "at_intereses_cientificos": null,
+        "at_estado": true,
+        "especialidades_ids": []
+    },
+    {
+        "id": 249,
+        "persona": {
+            "id": 257,
+            "p_nombre": "Blanca Leticia",
+            "p_apellido_paterno": "Dávila",
+            "p_apellido_materno": "Gutiérrez",
+            "p_correo": "ldavila@uatx.mx",
+            "p_telefono": null,
+            "p_sitio_web": null
+        },
+        "tipo_autor_id": 2,
+        "grado_academico_id": 2,
+        "at_slug": "blanca-leticia-davila-gutierrez",
+        "at_biografia": {
+            "blocks": []
+        },
+        "at_intereses_cientificos": null,
+        "at_estado": true,
+        "especialidades_ids": []
+    },
+    {
+        "id": 250,
+        "persona": {
+            "id": 258,
+            "p_nombre": "José Antonio J.",
+            "p_apellido_paterno": "Durante",
+            "p_apellido_materno": "Murillo",
+            "p_correo": "jantonio.durantem@uatx.mx",
+            "p_telefono": null,
+            "p_sitio_web": null
+        },
+        "tipo_autor_id": 2,
+        "grado_academico_id": 2,
+        "at_slug": "jose-antonio-j-durante-murillo",
+        "at_biografia": {
+            "blocks": []
+        },
+        "at_intereses_cientificos": null,
+        "at_estado": true,
+        "especialidades_ids": []
+    },
+    {
+        "id": 251,
+        "persona": {
+            "id": 259,
+            "p_nombre": "Norma",
+            "p_apellido_paterno": "Sánchez",
+            "p_apellido_materno": "Sánchez",
+            "p_correo": "norma.sanchez01@uatx.mx",
+            "p_telefono": null,
+            "p_sitio_web": null
+        },
+        "tipo_autor_id": 2,
+        "grado_academico_id": 2,
+        "at_slug": "norma-sanchez-sanchez",
+        "at_biografia": {
+            "blocks": []
+        },
+        "at_intereses_cientificos": null,
+        "at_estado": true,
+        "especialidades_ids": []
+    },
+    {
+        "id": 252,
+        "persona": {
+            "id": 260,
+            "p_nombre": "Jose Alejandro",
+            "p_apellido_paterno": "Zegarra",
+            "p_apellido_materno": "Espinoza",
+            "p_correo": "jzegarrae@fcpn.edu.bo",
+            "p_telefono": null,
+            "p_sitio_web": null
+        },
+        "tipo_autor_id": 6,
+        "grado_academico_id": 1,
+        "at_slug": "jose-alejandro-zegarra-espinoza",
+        "at_biografia": {
+            "blocks": []
+        },
+        "at_intereses_cientificos": null,
+        "at_estado": true,
+        "especialidades_ids": []
+    },
+    {
+        "id": 253,
+        "persona": {
+            "id": 261,
+            "p_nombre": "Benigno",
+            "p_apellido_paterno": "Caballero",
+            "p_apellido_materno": "Claure",
+            "p_correo": null,
+            "p_telefono": null,
+            "p_sitio_web": null
+        },
+        "tipo_autor_id": 2,
+        "grado_academico_id": 2,
+        "at_slug": "benigno-caballero-claure",
+        "at_biografia": {
+            "blocks": []
+        },
+        "at_intereses_cientificos": null,
+        "at_estado": true,
+        "especialidades_ids": []
+    },
+    {
+        "id": 254,
+        "persona": {
+            "id": 262,
+            "p_nombre": "Rolando",
+            "p_apellido_paterno": "Caballero",
+            "p_apellido_materno": "Martínez",
+            "p_correo": null,
+            "p_telefono": null,
+            "p_sitio_web": null
+        },
+        "tipo_autor_id": 2,
+        "grado_academico_id": 2,
+        "at_slug": "rolando-caballero-martinez",
+        "at_biografia": {
+            "blocks": []
+        },
+        "at_intereses_cientificos": null,
+        "at_estado": true,
+        "especialidades_ids": []
+    },
+    {
+        "id": 255,
+        "persona": {
+            "id": 263,
+            "p_nombre": "Valeria Cecilia",
+            "p_apellido_paterno": "Torrez",
+            "p_apellido_materno": "Yanique",
+            "p_correo": "vtorrezy@fcpn.edu.bo",
+            "p_telefono": null,
+            "p_sitio_web": null
+        },
+        "tipo_autor_id": 4,
+        "grado_academico_id": 1,
+        "at_slug": "valeria-cecilia-torrez-yanique",
+        "at_biografia": {
+            "blocks": []
+        },
+        "at_intereses_cientificos": null,
+        "at_estado": true,
+        "especialidades_ids": []
+    },
+    {
+        "id": 256,
+        "persona": {
+            "id": 264,
+            "p_nombre": "Oliver Adalid",
+            "p_apellido_paterno": "Sanga",
+            "p_apellido_materno": "Castillo",
+            "p_correo": "osangac@fcpn.edu.bo",
+            "p_telefono": null,
+            "p_sitio_web": null
+        },
+        "tipo_autor_id": 4,
+        "grado_academico_id": 1,
+        "at_slug": "oliver-adalid-sanga-castillo",
+        "at_biografia": {
+            "blocks": []
+        },
+        "at_intereses_cientificos": null,
+        "at_estado": true,
+        "especialidades_ids": []
+    },
+    {
+        "id": 257,
+        "persona": {
+            "id": 265,
+            "p_nombre": "Helen Noemí",
+            "p_apellido_paterno": "Mamani",
+            "p_apellido_materno": "Choque",
+            "p_correo": "hmamanic3@fcpn.edu.bo",
+            "p_telefono": null,
+            "p_sitio_web": null
+        },
+        "tipo_autor_id": 4,
+        "grado_academico_id": 1,
+        "at_slug": "helen-noemi-mamani-choque",
+        "at_biografia": {
+            "blocks": []
+        },
+        "at_intereses_cientificos": null,
+        "at_estado": true,
+        "especialidades_ids": []
+    },
+    {
+        "id": 258,
+        "persona": {
+            "id": 266,
+            "p_nombre": "Mayra Lucia",
+            "p_apellido_paterno": "Siñani",
+            "p_apellido_materno": "Mendoza",
+            "p_correo": "msinanim2@fcpn.edu.bo",
+            "p_telefono": null,
+            "p_sitio_web": null
+        },
+        "tipo_autor_id": 4,
+        "grado_academico_id": 1,
+        "at_slug": "mayra-lucia-sinani-mendoza",
+        "at_biografia": {
+            "blocks": []
+        },
+        "at_intereses_cientificos": null,
+        "at_estado": true,
+        "especialidades_ids": []
     }
 ]

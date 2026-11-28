@@ -21,11 +21,11 @@
         "estado_revision": "aprobado",
         "autores_pivot": [
             {
-                "autor_id": 21,
+                "autor_id": 36,
                 "tipo_participaciones_id": 2
             },
             {
-                "autor_id": 36,
+                "autor_id": 21,
                 "tipo_participaciones_id": 2
             }
         ],
@@ -375,11 +375,11 @@
         "estado_revision": "aprobado",
         "autores_pivot": [
             {
-                "autor_id": 192,
+                "autor_id": 55,
                 "tipo_participaciones_id": 1
             },
             {
-                "autor_id": 55,
+                "autor_id": 192,
                 "tipo_participaciones_id": 1
             }
         ],
@@ -445,11 +445,11 @@
         "estado_revision": "aprobado",
         "autores_pivot": [
             {
-                "autor_id": 26,
+                "autor_id": 46,
                 "tipo_participaciones_id": 1
             },
             {
-                "autor_id": 46,
+                "autor_id": 26,
                 "tipo_participaciones_id": 1
             }
         ],
@@ -485,11 +485,11 @@
                 "tipo_participaciones_id": 1
             },
             {
-                "autor_id": 204,
+                "autor_id": 181,
                 "tipo_participaciones_id": 1
             },
             {
-                "autor_id": 181,
+                "autor_id": 204,
                 "tipo_participaciones_id": 1
             }
         ],
@@ -596,11 +596,11 @@
         "estado_revision": "aprobado",
         "autores_pivot": [
             {
-                "autor_id": 21,
+                "autor_id": 36,
                 "tipo_participaciones_id": 1
             },
             {
-                "autor_id": 36,
+                "autor_id": 21,
                 "tipo_participaciones_id": 1
             }
         ],
@@ -708,6 +708,438 @@
             "STATIS",
             "Análisis de Componentes Principales",
             "Tablas Multivia"
+        ]
+    },
+    {
+        "id": 42,
+        "art_titulo": "Bolivia: Discrepancia entre las tasas globales de fecundidad estimadas con los métodos directo e indirecto. Un modelo para la corrección",
+        "art_slug": "bolivia-discrepancia-entre-las-tasas-globales-de-fecundidad-estimadas-con-los-metodos-directo-e-indirecto-un-modelo-para-la-correccion",
+        "art_resumen": "Esta investigación verifica si las tasas globales de fecundidad estimadas con el método indirecto discrepan sistemáticamente de aquellas generadas con el método directo y propone su corrección mediante regresión red elástica a partir de encuestas de demografía y salud.",
+        "art_abstracto": "This research verifies whether total fertility rates estimated with the indirect method differ systematically from those generated with the direct method, and proposes an elastic net regression adjustment based on demographic and health surveys.",
+        "art_fecha_recepcion": "2025-02-10",
+        "art_fecha_aceptado": "2025-03-25",
+        "art_orcid": "https://orcid.org/0000-0002-2955-0204",
+        "art_doi": "https://doi.org/10.53287/jbct9167ky31p",
+        "art_pag_inicio": 1,
+        "art_pag_fin": 17,
+        "art_num_paginas": 17,
+        "art_estado": true,
+        "art_referencias": null,
+        "art_enlace_url": null,
+        "art_vistas": 0,
+        "tipo_articulo_id": 1,
+        "edicion_varianza_id": 26,
+        "estado_revision": "aprobado",
+        "autores_pivot": [
+            {
+                "autor_id": 36,
+                "tipo_participaciones_id": 2
+            },
+            {
+                "autor_id": 21,
+                "tipo_participaciones_id": 1
+            }
+        ],
+        "etiquetas": [
+            "Fecundidad",
+            "Demografía",
+            "Aprendizaje automático"
+        ]
+    },
+    {
+        "id": 43,
+        "art_titulo": "Pronósticos de la producción de estaño en Bolivia basados en modelos SARIMA",
+        "art_slug": "pronosticos-de-la-produccion-de-estano-en-bolivia-basados-en-modelos-sarima",
+        "art_resumen": "Esta investigación proporciona información pronosticada sobre la producción de estaño en Bolivia usando series de tiempo mensuales (2000–2024) del INE con metodología Box-Jenkins y un modelo SARIMA(1,1,3)(1,0,0)[12] para la toma de decisiones en el sector minero.",
+        "art_abstracto": "This study provides forecasts of Bolivian tin production using monthly time series (2000–2024) from INE, Box-Jenkins methodology, and a SARIMA(1,1,3)(1,0,0)[12] model to support decision-making in the mining market.",
+        "art_fecha_recepcion": "2025-01-31",
+        "art_fecha_aceptado": "2025-03-24",
+        "art_orcid": "https://orcid.org/0009-0006-7054-061X",
+        "art_doi": "https://doi.org/10.53287/czms4796ne14j",
+        "art_pag_inicio": 19,
+        "art_pag_fin": 31,
+        "art_num_paginas": 13,
+        "art_estado": true,
+        "art_referencias": null,
+        "art_enlace_url": null,
+        "art_vistas": 0,
+        "tipo_articulo_id": 1,
+        "edicion_varianza_id": 26,
+        "estado_revision": "aprobado",
+        "autores_pivot": [
+            {
+                "autor_id": 244,
+                "tipo_participaciones_id": 1
+            }
+        ],
+        "etiquetas": [
+            "Series de Tiempo",
+            "Modelos SARIMA",
+            "Minería"
+        ]
+    },
+    {
+        "id": 44,
+        "art_titulo": "Métodos en la identificación de datos atípicos",
+        "art_slug": "metodos-en-la-identificacion-de-datos-atipicos",
+        "art_resumen": "Analiza diversos métodos descriptivos y analítico-sintéticos para identificar valores atípicos en modelos de regresión lineal y múltiple, proponiendo un enfoque combinado que mejora la precisión y confiabilidad de los resultados estadísticos.",
+        "art_abstracto": "Analyzes descriptive and analytical-synthetic methods to identify outliers in linear and multiple regression models, proposing a combined approach that enhances the accuracy and reliability of statistical results.",
+        "art_fecha_recepcion": "2025-09-10",
+        "art_fecha_aceptado": "2025-10-16",
+        "art_orcid": "https://orcid.org/0009-0003-0196-7862",
+        "art_doi": "https://doi.org/10.53287/qhvv8628oh49s",
+        "art_pag_inicio": 1,
+        "art_pag_fin": 8,
+        "art_num_paginas": 8,
+        "art_estado": true,
+        "art_referencias": null,
+        "art_enlace_url": null,
+        "art_vistas": 0,
+        "tipo_articulo_id": 1,
+        "edicion_varianza_id": 27,
+        "estado_revision": "aprobado",
+        "autores_pivot": [
+            {
+                "autor_id": 25,
+                "tipo_participaciones_id": 1
+            }
+        ],
+        "etiquetas": [
+            "Datos Atípicos",
+            "Modelos de Regresión",
+            "Investigación Social"
+        ]
+    },
+    {
+        "id": 45,
+        "art_titulo": "Análisis correlacional entre los ingresos personales y los años de estudio en Bolivia",
+        "art_slug": "analisis-correlacional-entre-los-ingresos-personales-y-los-anos-de-estudio-en-bolivia",
+        "art_resumen": "A partir de la Encuesta de Hogares 2021, analiza la correlación entre ingresos personales y años de estudio en Bolivia, evidenciando una relación débil (< 0.5) e identificando factores socioeconómicos adicionales que explican el comportamiento de los ingresos.",
+        "art_abstracto": "Using the 2021 Bolivian Household Survey, analyzes the correlation between personal income and years of schooling, showing a weak correlation (< 0.5) and identifying additional socioeconomic variables that explain income behavior.",
+        "art_fecha_recepcion": "2025-09-09",
+        "art_fecha_aceptado": "2025-10-16",
+        "art_orcid": "https://orcid.org/0000-0001-7886-5264",
+        "art_doi": "https://doi.org/10.53287/dddi7166kc43g",
+        "art_pag_inicio": 9,
+        "art_pag_fin": 22,
+        "art_num_paginas": 14,
+        "art_estado": true,
+        "art_referencias": null,
+        "art_enlace_url": null,
+        "art_vistas": 0,
+        "tipo_articulo_id": 1,
+        "edicion_varianza_id": 27,
+        "estado_revision": "aprobado",
+        "autores_pivot": [
+            {
+                "autor_id": 46,
+                "tipo_participaciones_id": 2
+            },
+            {
+                "autor_id": 26,
+                "tipo_participaciones_id": 1
+            }
+        ],
+        "etiquetas": [
+            "Econometría",
+            "Educación Superior",
+            "Ingresos"
+        ]
+    },
+    {
+        "id": 46,
+        "art_titulo": "Predicción y clasificación del rendimiento académico a través de métodos de Machine Learning: Regresión Logística y Árbol de Decisiones",
+        "art_slug": "prediccion-y-clasificacion-del-rendimiento-academico-a-traves-de-metodos-de-machine-learning-regresion-logistica-y-arbol-de-decisiones",
+        "art_resumen": "Evalúa modelos de Machine Learning (Regresión Logística, Árbol de Decisiones y Random Forest) con registros académicos 2022 de la E.M.I., alcanzando 90.38% de precisión con Regresión Logística optimizada para alertar tempranamente riesgos de deserción estudiantil.",
+        "art_abstracto": "Evaluates Machine Learning models (Logistic Regression, Decision Tree, and Random Forest) on 2022 academic records from E.M.I., achieving 90.38% accuracy with tuned Logistic Regression to identify students at risk of dropout.",
+        "art_fecha_recepcion": "2025-09-15",
+        "art_fecha_aceptado": "2025-10-16",
+        "art_orcid": "https://orcid.org/0000-0001-9562-5983",
+        "art_doi": "https://doi.org/10.53287/knfb3373zs29o",
+        "art_pag_inicio": 23,
+        "art_pag_fin": 34,
+        "art_num_paginas": 12,
+        "art_estado": true,
+        "art_referencias": null,
+        "art_enlace_url": null,
+        "art_vistas": 0,
+        "tipo_articulo_id": 1,
+        "edicion_varianza_id": 27,
+        "estado_revision": "aprobado",
+        "autores_pivot": [
+            {
+                "autor_id": 245,
+                "tipo_participaciones_id": 1
+            },
+            {
+                "autor_id": 246,
+                "tipo_participaciones_id": 2
+            }
+        ],
+        "etiquetas": [
+            "Machine Learning",
+            "Rendimiento Académico",
+            "Regresión Logística"
+        ]
+    },
+    {
+        "id": 47,
+        "art_titulo": "Análisis de los determinantes en la tasa de fecundidad de las mujeres en Bolivia",
+        "art_slug": "analisis-de-los-determinantes-en-la-tasa-de-fecundidad-de-las-mujeres-en-bolivia",
+        "art_resumen": "Analiza los determinantes sociodemográficos y económicos de la fecundidad en mujeres adultas en Bolivia utilizando la Encuesta de Demografía y Salud 2023 y un modelo de regresión de Poisson.",
+        "art_abstracto": "Analyzes sociodemographic and economic determinants of fertility among adult women in Bolivia using the 2023 Demographic and Health Survey and a Poisson regression model.",
+        "art_fecha_recepcion": "2025-09-01",
+        "art_fecha_aceptado": "2025-09-23",
+        "art_orcid": "https://orcid.org/0009-0007-4335-544",
+        "art_doi": "https://doi.org/10.53287/scos9764py57q",
+        "art_pag_inicio": 35,
+        "art_pag_fin": 45,
+        "art_num_paginas": 11,
+        "art_estado": true,
+        "art_referencias": null,
+        "art_enlace_url": null,
+        "art_vistas": 0,
+        "tipo_articulo_id": 1,
+        "edicion_varianza_id": 27,
+        "estado_revision": "aprobado",
+        "autores_pivot": [
+            {
+                "autor_id": 247,
+                "tipo_participaciones_id": 1
+            }
+        ],
+        "etiquetas": [
+            "Fecundidad",
+            "Regresión Poisson",
+            "Demografía"
+        ]
+    },
+    {
+        "id": 48,
+        "art_titulo": "Análisis de especificaciones del tocino aplicando el ciclo Deming, DOE y capacidad del proceso",
+        "art_slug": "analisis-de-especificaciones-del-tocino-aplicando-el-ciclo-deming-doe-y-capacidad-del-proceso",
+        "art_resumen": "Analiza y evalúa las especificaciones dimensionales del tocino producido en una empresa embutidora de Tlaxcala (México), aplicando el ciclo Deming (PHVA), Diseño de Experimentos (DOE) y Capacidad del Proceso para fortalecer el control estadístico de la calidad.",
+        "art_abstracto": "Analyzes and evaluates dimensional specifications of bacon at a sausage processing company in Tlaxcala (Mexico), applying the Deming cycle (PDCA), Design of Experiments (DOE), and Process Capability to strengthen statistical quality control.",
+        "art_fecha_recepcion": "2026-02-09",
+        "art_fecha_aceptado": "2026-04-21",
+        "art_orcid": "https://orcid.org/0009-0005-6271-752X",
+        "art_doi": "https://doi.org/10.53287/v7k3m918px20a",
+        "art_pag_inicio": 1,
+        "art_pag_fin": 20,
+        "art_num_paginas": 20,
+        "art_estado": true,
+        "art_referencias": null,
+        "art_enlace_url": null,
+        "art_vistas": 0,
+        "tipo_articulo_id": 1,
+        "edicion_varianza_id": 28,
+        "estado_revision": "aprobado",
+        "autores_pivot": [
+            {
+                "autor_id": 248,
+                "tipo_participaciones_id": 1
+            },
+            {
+                "autor_id": 249,
+                "tipo_participaciones_id": 2
+            },
+            {
+                "autor_id": 250,
+                "tipo_participaciones_id": 2
+            },
+            {
+                "autor_id": 251,
+                "tipo_participaciones_id": 2
+            }
+        ],
+        "etiquetas": [
+            "Control de Calidad",
+            "Ciclo Deming",
+            "Diseño de Experimentos"
+        ]
+    },
+    {
+        "id": 49,
+        "art_titulo": "Evaluación multivariante del desempeño bancario: una alternativa estadística al sistema CAMEL",
+        "art_slug": "evaluacion-multivariante-del-desempeno-bancario-una-alternativa-estadistica-al-sistema-camel",
+        "art_resumen": "Propone un Índice de Solidez Financiera basado en Análisis de Componentes Principales (ACP) aplicado a la banca múltiple boliviana (2022–2024), validando su capacidad de alerta temprana al detectar el deterioro financiero previo a la intervención del Banco Fassil.",
+        "art_abstracto": "Proposes a Financial Soundness Index based on Principal Component Analysis (PCA) applied to Bolivian multiple banks (2022–2024), validating its early-warning predictive power prior to Banco Fassil intervention.",
+        "art_fecha_recepcion": "2026-03-12",
+        "art_fecha_aceptado": "2026-04-12",
+        "art_orcid": "https://orcid.org/0009-0007-1346-5930",
+        "art_doi": "https://doi.org/10.53287/r4v8b521lw64c",
+        "art_pag_inicio": 21,
+        "art_pag_fin": 28,
+        "art_num_paginas": 8,
+        "art_estado": true,
+        "art_referencias": null,
+        "art_enlace_url": null,
+        "art_vistas": 0,
+        "tipo_articulo_id": 1,
+        "edicion_varianza_id": 28,
+        "estado_revision": "aprobado",
+        "autores_pivot": [
+            {
+                "autor_id": 252,
+                "tipo_participaciones_id": 1
+            }
+        ],
+        "etiquetas": [
+            "Análisis Multivariado",
+            "Banca Boliviana",
+            "Riesgo Financiero"
+        ]
+    },
+    {
+        "id": 50,
+        "art_titulo": "El efecto del género y el área geográfica en los ingresos laborales de Bolivia. Un análisis de sección cruzada en el periodo 2023",
+        "art_slug": "el-efecto-del-genero-y-el-area-geografica-en-los-ingresos-laborales-de-bolivia-un-analisis-de-seccion-cruzada-en-el-periodo-2023",
+        "art_resumen": "Analiza los determinantes de los ingresos laborales en Bolivia durante 2023 usando la encuesta MECOVI y modelos MCO y de variables instrumentales en dos etapas, evidenciando brechas significativas asociadas a nivel educativo, género y área geográfica.",
+        "art_abstracto": "Analyzes the determinants of labor income in Bolivia during 2023 using MECOVI household survey data, OLS, and two-stage instrumental variable models, revealing significant gaps driven by education, gender, and geographic area.",
+        "art_fecha_recepcion": "2026-03-11",
+        "art_fecha_aceptado": "2026-03-24",
+        "art_orcid": null,
+        "art_doi": "https://doi.org/10.53287/q2x5n843zt12e",
+        "art_pag_inicio": 29,
+        "art_pag_fin": 42,
+        "art_num_paginas": 14,
+        "art_estado": true,
+        "art_referencias": null,
+        "art_enlace_url": null,
+        "art_vistas": 0,
+        "tipo_articulo_id": 1,
+        "edicion_varianza_id": 28,
+        "estado_revision": "aprobado",
+        "autores_pivot": [
+            {
+                "autor_id": 253,
+                "tipo_participaciones_id": 1
+            },
+            {
+                "autor_id": 254,
+                "tipo_participaciones_id": 2
+            }
+        ],
+        "etiquetas": [
+            "Econometría",
+            "Mercado Laboral",
+            "Ingresos"
+        ]
+    },
+    {
+        "id": 51,
+        "art_titulo": "Análisis de varianza multivariante de dos vías (MANOVA) para una muestra de estudiantes universitarios de la FCPN",
+        "art_slug": "analisis-de-varianza-multivariante-de-dos-vias-manova-para-una-muestra-de-estudiantes-universitarios-de-la-fcpn",
+        "art_resumen": "Aplica el análisis MANOVA de dos vías sobre una muestra de estudiantes de la FCPN-UMSA para evaluar el efecto del trabajo remunerado y el avance académico sobre las horas de estudio, tiempo de traslado y gasto diario en transporte.",
+        "art_abstracto": "Applies two-way MANOVA on a sample of FCPN-UMSA university students to evaluate the effect of paid employment and academic progress on study hours, commute time, and daily transportation expenses.",
+        "art_fecha_recepcion": "2026-03-30",
+        "art_fecha_aceptado": "2026-04-27",
+        "art_orcid": "https://orcid.org/0000-0001-9095-7778",
+        "art_doi": "https://doi.org/10.53287/m9p1k471vy39g",
+        "art_pag_inicio": 43,
+        "art_pag_fin": 50,
+        "art_num_paginas": 8,
+        "art_estado": true,
+        "art_referencias": null,
+        "art_enlace_url": null,
+        "art_vistas": 0,
+        "tipo_articulo_id": 1,
+        "edicion_varianza_id": 28,
+        "estado_revision": "aprobado",
+        "autores_pivot": [
+            {
+                "autor_id": 48,
+                "tipo_participaciones_id": 1
+            }
+        ],
+        "etiquetas": [
+            "MANOVA",
+            "Análisis Multivariado",
+            "Educación Superior"
+        ]
+    },
+    {
+        "id": 52,
+        "art_titulo": "Educación y salud versus ingreso económico en Bolivia, gestión 2021 – 2024",
+        "art_slug": "educacion-y-salud-versus-ingreso-economico-en-bolivia-gestion-2021-2024",
+        "art_resumen": "Estudio comparativo urbano-rural y evolutivo (2021–2024) que analiza cuantitativamente cómo el capital humano (educación y salud) influye en el ingreso per cápita de los hogares bolivianos y en la reducción de la pobreza.",
+        "art_abstracto": "Urban-rural comparative and evolutionary study (2021–2024) quantitatively analyzing how human capital (education and health) influences Bolivian household per capita income and poverty reduction.",
+        "art_fecha_recepcion": "2026-03-11",
+        "art_fecha_aceptado": "2026-04-14",
+        "art_orcid": "https://orcid.org/0000-0001-7886-5264",
+        "art_doi": "https://doi.org/10.53287/c6j2v704fs81i",
+        "art_pag_inicio": 51,
+        "art_pag_fin": 76,
+        "art_num_paginas": 26,
+        "art_estado": true,
+        "art_referencias": null,
+        "art_enlace_url": null,
+        "art_vistas": 0,
+        "tipo_articulo_id": 1,
+        "edicion_varianza_id": 28,
+        "estado_revision": "aprobado",
+        "autores_pivot": [
+            {
+                "autor_id": 46,
+                "tipo_participaciones_id": 2
+            },
+            {
+                "autor_id": 26,
+                "tipo_participaciones_id": 1
+            }
+        ],
+        "etiquetas": [
+            "pobreza",
+            "Educación Superior",
+            "Salud Pública"
+        ]
+    },
+    {
+        "id": 53,
+        "art_titulo": "Estadística descriptiva aplicada al fútbol boliviano: una experiencia didáctica con estudiantes de pregrado en Estadística",
+        "art_slug": "estadistica-descriptiva-aplicada-al-futbol-boliviano-una-experiencia-didactica-con-estudiantes-de-pregrado-en-estadistica",
+        "art_resumen": "Sistematiza una experiencia pedagógica en la asignatura de Estadística Descriptiva (I/2026) con cuatro análisis estudiantiles sobre el fútbol boliviano (valores de mercado, desempeño goleador, distribución y eficiencia goleadora).",
+        "art_abstracto": "Systematizes a pedagogical experience in Descriptive Statistics (I/2026) featuring four undergraduate student studies on Bolivian football performance, market values, goal distribution, and scoring efficiency.",
+        "art_fecha_recepcion": "2026-03-12",
+        "art_fecha_aceptado": "2026-04-27",
+        "art_orcid": null,
+        "art_doi": "https://doi.org/10.53287/w3n8q116lb53k",
+        "art_pag_inicio": 77,
+        "art_pag_fin": 84,
+        "art_num_paginas": 8,
+        "art_estado": true,
+        "art_referencias": null,
+        "art_enlace_url": null,
+        "art_vistas": 0,
+        "tipo_articulo_id": 1,
+        "edicion_varianza_id": 28,
+        "estado_revision": "aprobado",
+        "autores_pivot": [
+            {
+                "autor_id": 255,
+                "tipo_participaciones_id": 2
+            },
+            {
+                "autor_id": 256,
+                "tipo_participaciones_id": 2
+            },
+            {
+                "autor_id": 257,
+                "tipo_participaciones_id": 2
+            },
+            {
+                "autor_id": 258,
+                "tipo_participaciones_id": 2
+            },
+            {
+                "autor_id": 37,
+                "tipo_participaciones_id": 1
+            }
+        ],
+        "etiquetas": [
+            "Estadística Descriptiva",
+            "Enseñanza Estadística",
+            "Deporte"
         ]
     }
 ]
